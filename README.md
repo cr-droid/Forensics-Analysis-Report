@@ -143,7 +143,7 @@ This exhibit shows the hashes (MD5 and SHA1) of the raw image file (.dd) created
 
 ---
 
-### Exhibit N: StegSeek Script Used
+### Exhibit N: StegSeek Script Used for JPGs
 ![Exhibit N – stegseek_script.png](readme_images/stegseek_script.png)
 
 **Description:**  
@@ -151,7 +151,7 @@ This exhibit shows the hashes (MD5 and SHA1) of the raw image file (.dd) created
 
 ---
 
-### Exhibit O: Cracking Steganography Password and Extracting Embedded Data
+### Exhibit O: Cracking Steganography Password and Extracting Embedded Data in JPG
 ![Exhibit O – stegseek_dog.png](readme_images/stegseek_dog.png)
 
 **Description:**  
@@ -159,7 +159,7 @@ This exhibit shows the hashes (MD5 and SHA1) of the raw image file (.dd) created
 
 ---
 
-### Exhibit P: Looking at Extracted Data Content
+### Exhibit P: Looking at Extracted Data Content in JPG
 ![Exhibit P – extracted_dog_data.png](readme_images/extracted_dog_data.png)
 
 **Description:**  
@@ -167,7 +167,7 @@ This exhibit shows the hashes (MD5 and SHA1) of the raw image file (.dd) created
 
 ---
 
-### Exhibit Q: zSteg Script Used
+### Exhibit Q: zSteg Script Used for PNGs
 ![Exhibit Q – zsteg_script.png](readme_images/zsteg_script.png)
 
 **Description:**  
@@ -175,32 +175,32 @@ This exhibit shows the hashes (MD5 and SHA1) of the raw image file (.dd) created
 
 ---
 
-### Exhibit R: USB Device Raw Image File Verification
-![Exhibit R – Hash Verification Screenshot](readme_images/usb_raw_image_hash.png)
+### Exhibit R: How to Grep for zSteg Results Created by Script in Exhibit Q
+![Exhibit R – grepping_zsteg_results.png](readme_images/grepping_zsteg_results.png)
 
 **Description:**  
 This exhibit shows the hashes (MD5 and SHA1) of the raw image file (.dd) created by Exterro FTK Imager from the USB storage device.
 
 ---
 
-### Exhibit S: USB Device Raw Image File Verification
-![Exhibit S – Hash Verification Screenshot](readme_images/usb_raw_image_hash.png)
+### Exhibit S: Embedded File Found in PNG: Terse Exectuable (TE)
+![Exhibit S – TE.png](readme_images/TE.png)
 
 **Description:**  
 This exhibit shows the hashes (MD5 and SHA1) of the raw image file (.dd) created by Exterro FTK Imager from the USB storage device.
 
 ---
 
-### Exhibit T: USB Device Raw Image File Verification
-![Exhibit T – Hash Verification Screenshot](readme_images/usb_raw_image_hash.png)
+### Exhibit T: Embedded File Found in PNG: PGP Encrypted Data
+![Exhibit T – PGP-encrypted-data.png](readme_images/PGP-encrypted-data.png)
 
 **Description:**  
 This exhibit shows the hashes (MD5 and SHA1) of the raw image file (.dd) created by Exterro FTK Imager from the USB storage device.
 
 ---
 
-### Exhibit U: USB Device Raw Image File Verification
-![Exhibit U – Hash Verification Screenshot](readme_images/usb_raw_image_hash.png)
+### Exhibit U: Embedded File Found in PNG: PDP-11 Pure Executable
+![Exhibit U – pdp-11.png](readme_images/pdp-11.png)
 
 **Description:**  
 This exhibit shows the hashes (MD5 and SHA1) of the raw image file (.dd) created by Exterro FTK Imager from the USB storage device.
