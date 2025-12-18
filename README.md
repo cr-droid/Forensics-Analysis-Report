@@ -219,7 +219,13 @@ This investigation demonstrates the importance of carefully examining digital me
 
 For a more in depth report about this project, visit the [Full Forensic Report](https://drive.google.com/file/d/1cESshgHQEwvbGMdsTj8EFCmHq7myUULQ/view?usp=sharing).
 
-## 👤 Author(s)
+Due to Github's size limit on file uploads, this repo is missing the entire files used in this investigation. For the complete files used in this project, visit the [Report Documentation Repo](https://drive.google.com/drive/folders/1gQOi0mtvV-f2ZlDMzBxhdTnYihuFK6TH?usp=drive_link).
+
+## 👤 Authors
 - **Christian Ruiz**  
   Digital Forensics Student  
   GitHub: https://github.com/cr-droid
+
+- **Samuel Wakiuru**  
+  Digital Forensics Student  
+  
