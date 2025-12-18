@@ -1,0 +1,240 @@
+This program has not been tested with this version of Python (3.13.9)
+Should you encounter problems, please use Python version 3.12.2
+obj 1580 0
+ Type: /ObjStm
+ Referencing: 
+ Contains stream
+
+  <<
+    /Filter /FlateDecode
+    /First 1974
+    /Length 4465
+    /N 200
+    /Type /ObjStm
+  >>
+
+
+obj 1581 0
+ Type: /ObjStm
+ Referencing: 
+ Contains stream
+
+  <<
+    /Filter /FlateDecode
+    /First 1767
+    /Length 4009
+    /N 182
+    /Type /ObjStm
+  >>
+
+
+obj 1582 0
+ Type: /ObjStm
+ Referencing: 
+ Contains stream
+
+  <<
+    /Filter /FlateDecode
+    /First 303
+    /Length 1751
+    /N 33
+    /Type /ObjStm
+  >>
+
+
+obj 1583 0
+ Type: /ObjStm
+ Referencing: 
+ Contains stream
+
+  <<
+    /Filter /FlateDecode
+    /First 218
+    /Length 601
+    /N 23
+    /Type /ObjStm
+  >>
+
+
+obj 1584 0
+ Type: /ObjStm
+ Referencing: 
+ Contains stream
+
+  <<
+    /Filter /FlateDecode
+    /First 1107
+    /Length 2410
+    /N 112
+    /Type /ObjStm
+  >>
+
+
+obj 1585 0
+ Type: /ObjStm
+ Referencing: 
+ Contains stream
+
+  <<
+    /Filter /FlateDecode
+    /First 156
+    /Length 520
+    /N 17
+    /Type /ObjStm
+  >>
+
+
+obj 1586 0
+ Type: /ObjStm
+ Referencing: 
+ Contains stream
+
+  <<
+    /Filter /FlateDecode
+    /First 6
+    /Length 236
+    /N 1
+    /Type /ObjStm
+  >>
+
+
+obj 1587 0
+ Type: /ObjStm
+ Referencing: 
+ Contains stream
+
+  <<
+    /Filter /FlateDecode
+    /First 6
+    /Length 255
+    /N 1
+    /Type /ObjStm
+  >>
+
+
+obj 1588 0
+ Type: /ObjStm
+ Referencing: 
+ Contains stream
+
+  <<
+    /Filter /FlateDecode
+    /First 6
+    /Length 232
+    /N 1
+    /Type /ObjStm
+  >>
+
+
+obj 1589 0
+ Type: /ObjStm
+ Referencing: 
+ Contains stream
+
+  <<
+    /Filter /FlateDecode
+    /First 22
+    /Length 282
+    /N 3
+    /Type /ObjStm
+  >>
+
+
+obj 1590 0
+ Type: /ObjStm
+ Referencing: 
+ Contains stream
+
+  <<
+    /Filter /FlateDecode
+    /First 6
+    /Length 235
+    /N 1
+    /Type /ObjStm
+  >>
+
+
+obj 1591 0
+ Type: /ObjStm
+ Referencing: 
+ Contains stream
+
+  <<
+    /Filter /FlateDecode
+    /First 14
+    /Length 273
+    /N 2
+    /Type /ObjStm
+  >>
+
+
+obj 1592 0
+ Type: /ObjStm
+ Referencing: 
+ Contains stream
+
+  <<
+    /Filter /FlateDecode
+    /First 6
+    /Length 265
+    /N 1
+    /Type /ObjStm
+  >>
+
+
+obj 1593 0
+ Type: /ObjStm
+ Referencing: 
+ Contains stream
+
+  <<
+    /Filter /FlateDecode
+    /First 15
+    /Length 109
+    /N 2
+    /Type /ObjStm
+  >>
+
+
+obj 1594 0
+ Type: /ObjStm
+ Referencing: 
+ Contains stream
+
+  <<
+    /Filter /FlateDecode
+    /First 326
+    /Length 851
+    /N 34
+    /Type /ObjStm
+  >>
+
+
+obj 1595 0
+ Type: /ObjStm
+ Referencing: 
+ Contains stream
+
+  <<
+    /Filter /FlateDecode
+    /First 16
+    /Length 151
+    /N 2
+    /Type /ObjStm
+  >>
+
+
+obj 1606 0
+ Type: /ObjStm
+ Referencing: 
+ Contains stream
+
+  <<
+    /Filter /FlateDecode
+    /First 6
+    /Length 235
+    /N 1
+    /Type /ObjStm
+  >>
+
+

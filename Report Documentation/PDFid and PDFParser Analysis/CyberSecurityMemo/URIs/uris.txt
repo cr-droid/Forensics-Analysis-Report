@@ -1,0 +1,16 @@
+This program has not been tested with this version of Python (3.13.9)
+Should you encounter problems, please use Python version 3.12.2
+obj 40 0
+ Type: 
+ Referencing: 
+
+  <<
+    /CreationDate "(D:20110712101647-05'00')"
+    /Author (mb200bs)
+    /Creator (PScript5.dll Version 5.2.2)
+    /Producer '(Acrobat Distiller 8.3.0 \\(Windows\\))'
+    /ModDate "(D:20110712101647-05'00')"
+    /Title (Microsoft Word - Security Awareness Memo.docx)
+  >>
+
+

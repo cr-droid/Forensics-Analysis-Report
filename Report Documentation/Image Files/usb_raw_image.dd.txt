@@ -1,0 +1,47 @@
+﻿Created By Exterro® FTK® Imager 8.2.0.26 
+
+Case Information: 
+Acquired using: ADI8.2.0.26
+Case Number: 01
+Evidence Number: 01
+Unique description: Raw image of USB
+Examiner: Christian Ruiz
+Notes:  
+
+--------------------------------------------------------------
+
+Information for C:\Users\chris\OneDrive\Desktop\CIS27A Final Project\usb_raw_image:
+
+Physical Evidentiary Item (Source) Information:
+[Device Info]
+ Source Type: Physical
+[Drive Geometry]
+ Cylinders: 31
+ Tracks per Cylinder: 255
+ Sectors per Track: 63
+ Bytes per Sector: 512
+ Sector Count: 509,952
+[Physical Drive Information]
+ Drive Model: General UDisk USB Device
+ Drive Serial Number: 	
+ Drive Interface Type: USB
+ Removable drive: True
+ Source data size: 249 MB
+ Sector count:    509952
+[Computed Hashes]
+ MD5 checksum:    48323341843af77b76b2b55caffe9f20
+ SHA1 checksum:   3f6c6e0ca8dca8d4f5df5d29288113f2c62dca73
+
+Image Information:
+ Acquisition started:   Wed Dec  3 19:41:40 2025
+ Acquisition finished:  Wed Dec  3 19:41:48 2025
+ Segment list:
+  C:\Users\chris\OneDrive\Desktop\CIS27A Final Project\usb_raw_image.001
+ COMPUTED HASH :  48323341843af77b76b2b55caffe9f20
+ COMPUTED HASH :  3f6c6e0ca8dca8d4f5df5d29288113f2c62dca73
+
+Image Verification Results:
+ Verification started:  Wed Dec  3 19:41:48 2025
+ Verification finished: Wed Dec  3 19:41:48 2025
+ MD5 checksum:    48323341843af77b76b2b55caffe9f20 : verified
+ SHA1 checksum:   3f6c6e0ca8dca8d4f5df5d29288113f2c62dca73 : verified

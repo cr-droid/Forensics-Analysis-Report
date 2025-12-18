@@ -1,0 +1,1038 @@
+This program has not been tested with this version of Python (3.13.9)
+Should you encounter problems, please use Python version 3.12.2
+obj 248 0
+ Type: 
+ Referencing: 
+
+  <<
+    /CreationDate "(D:20160422152643+03'00')"
+    /Creator '(Adobe Illustrator CC 2015 \\(Windows\\))'
+    /ModDate "(D:20160422171320+03'00')"
+    /Producer (Adobe PDF library 15.00)
+    /Title ([hs]  Cyber Security for Beginners_0)
+  >>
+
+
+obj 1182 0
+ Type: 
+ Referencing: 
+
+  <<
+    /S /URI
+    /URI (https://gallery.mailchimp.com/9588e79f21453dd8e52df4d68/files/The_essential_security_checklist.pdf)
+  >>
+
+
+obj 1193 0
+ Type: 
+ Referencing: 
+
+  <<
+    /S /URI
+    /URI (https://www.virusbulletin.com/)
+  >>
+
+
+obj 1194 0
+ Type: 
+ Referencing: 
+
+  <<
+    /S /URI
+    /URI (https://www.av-test.org/en/)
+  >>
+
+
+obj 1195 0
+ Type: 
+ Referencing: 
+
+  <<
+    /S /URI
+    /URI (http://www.pcmag.com/reviews/security-software)
+  >>
+
+
+obj 1196 0
+ Type: 
+ Referencing: 
+
+  <<
+    /S /URI
+    /URI (http://www.av-comparatives.org/)
+  >>
+
+
+obj 1203 0
+ Type: 
+ Referencing: 
+
+  <<
+    /S /URI
+    /URI (http://www.howtogeek.com/137270/50-file-extensions-that-are-potentially-dangerous-on-windows/)
+  >>
+
+
+obj 1204 0
+ Type: 
+ Referencing: 
+
+  <<
+    /S /URI
+    /URI (http://www.howtogeek.com/137270/50-file-extensions-that-are-potentially-dangerous-on-windows/)
+  >>
+
+
+obj 1209 0
+ Type: 
+ Referencing: 
+
+  <<
+    /S /URI
+    /URI (https://howsecureismypassword.net/)
+  >>
+
+
+obj 1214 0
+ Type: 
+ Referencing: 
+
+  <<
+    /S /URI
+    /URI (https://www.youtube.com/watch?v=yzGzB-yYKcc)
+  >>
+
+
+obj 1220 0
+ Type: 
+ Referencing: 
+
+  <<
+    /S /URI
+    /URI (http://windowssecrets.com/forums/forumdisplay.php/45-Security-amp-Scams)
+  >>
+
+
+obj 1221 0
+ Type: 
+ Referencing: 
+
+  <<
+    /S /URI
+    /URI (https://malwaretips.com/forums/the-community-video-reviews.28/)
+  >>
+
+
+obj 1226 0
+ Type: 
+ Referencing: 
+
+  <<
+    /S /URI
+    /URI (http://www.pcmag.com/article2/0,2817,2372364,00.asp)
+  >>
+
+
+obj 1230 0
+ Type: 
+ Referencing: 
+
+  <<
+    /S /URI
+    /URI (https://www.trustpilot.com/)
+  >>
+
+
+obj 1234 0
+ Type: 
+ Referencing: 
+
+  <<
+    /S /URI
+    /URI (https://www.cyberpowerpc.com/forum/forum19&SID=412117174cczf471f3cczf3136fd8d78.html)
+  >>
+
+
+obj 1235 0
+ Type: 
+ Referencing: 
+
+  <<
+    /S /URI
+    /URI (https://www.cyberpowerpc.com/forum/forum19&SID=412117174cczf471f3cczf3136fd8d78.html)
+  >>
+
+
+obj 1236 0
+ Type: 
+ Referencing: 
+
+  <<
+    /S /URI
+    /URI (http://www.wilderssecurity.com/forums/other-anti-virus-software.32/)
+  >>
+
+
+obj 1246 0
+ Type: 
+ Referencing: 
+
+  <<
+    /S /URI
+    /URI (https://www.av-test.org/en/)
+  >>
+
+
+obj 1249 0
+ Type: 
+ Referencing: 
+
+  <<
+    /S /URI
+    /URI (http://www.pcadvisor.co.uk/test-centre/security/best-antivirus-for-pc-laptop-2016-uk-free-summary-security-software-3263332/)
+  >>
+
+
+obj 1254 0
+ Type: 
+ Referencing: 
+
+  <<
+    /S /URI
+    /URI (http://www.softpedia.com/get/Antivirus/)
+  >>
+
+
+obj 1255 0
+ Type: 
+ Referencing: 
+
+  <<
+    /S /URI
+    /URI (http://www.tomsguide.com/us/best-antivirus,review-2588-2.html)
+  >>
+
+
+obj 1256 0
+ Type: 
+ Referencing: 
+
+  <<
+    /S /URI
+    /URI (http://www.techsupportalert.com/best-free-anti-virus-software.htm)
+  >>
+
+
+obj 1259 0
+ Type: 
+ Referencing: 
+
+  <<
+    /S /URI
+    /URI (http://www.pcmag.com/)
+  >>
+
+
+obj 1267 0
+ Type: 
+ Referencing: 
+
+  <<
+    /S /URI
+    /URI (http://www.av-comparatives.org/)
+  >>
+
+
+obj 1272 0
+ Type: 
+ Referencing: 
+
+  <<
+    /S /URI
+    /URI (http://www.av-comparatives.org/anti-phishing-test/)
+  >>
+
+
+obj 1275 0
+ Type: 
+ Referencing: 
+
+  <<
+    /S /URI
+    /URI (http://www.av-comparatives.org/retrospective-test/)
+  >>
+
+
+obj 1278 0
+ Type: 
+ Referencing: 
+
+  <<
+    /S /URI
+    /URI (http://www.av-comparatives.org/detection-test/)
+  >>
+
+
+obj 1281 0
+ Type: 
+ Referencing: 
+
+  <<
+    /S /URI
+    /URI (http://www.av-comparatives.org/performance-tests/)
+  >>
+
+
+obj 1284 0
+ Type: 
+ Referencing: 
+
+  <<
+    /S /URI
+    /URI (http://www.av-comparatives.org/dynamic-tests/)
+  >>
+
+
+obj 1289 0
+ Type: 
+ Referencing: 
+
+  <<
+    /S /URI
+    /URI (http://www.dennistechnologylabs.com/reports/s/a-m/2014/)
+  >>
+
+
+obj 1292 0
+ Type: 
+ Referencing: 
+
+  <<
+    /S /URI
+    /URI (https://www.virusbulletin.com/)
+  >>
+
+
+obj 1299 0
+ Type: 
+ Referencing: 
+
+  <<
+    /S /URI
+    /URI (http://thehackernews.com/2015/02/smart-tv-spying.html)
+  >>
+
+
+obj 1302 0
+ Type: 
+ Referencing: 
+
+  <<
+    /S /URI
+    /URI (https://www.theguardian.com/technology/2015/apr/09/online-all-the-time-average-british-household-owns-74-internet-devices)
+  >>
+
+
+obj 1308 0
+ Type: 
+ Referencing: 
+
+  <<
+    /S /URI
+    /URI (http://www.worldbackupday.com/en/)
+  >>
+
+
+obj 1311 0
+ Type: 
+ Referencing: 
+
+  <<
+    /S /URI
+    /URI (https://www.backblaze.com/blog/how-long-do-disk-drives-last/)
+  >>
+
+
+obj 1317 0
+ Type: 
+ Referencing: 
+
+  <<
+    /S /URI
+    /URI (https://heimdalsecurity.com/blog/password-security-guide/)
+  >>
+
+
+obj 1318 0
+ Type: 
+ Referencing: 
+
+  <<
+    /S /URI
+    /URI (https://heimdalsecurity.com/blog/password-security-guide/)
+  >>
+
+
+obj 1326 0
+ Type: 
+ Referencing: 
+
+  <<
+    /S /URI
+    /URI (https://onedrive.live.com/about/en-us/)
+  >>
+
+
+obj 1327 0
+ Type: 
+ Referencing: 
+
+  <<
+    /S /URI
+    /URI (https://www.bitcasa.com/)
+  >>
+
+
+obj 1328 0
+ Type: 
+ Referencing: 
+
+  <<
+    /S /URI
+    /URI (http://www.symform.com/)
+  >>
+
+
+obj 1329 0
+ Type: 
+ Referencing: 
+
+  <<
+    /S /URI
+    /URI (https://www.google.com/drive/)
+  >>
+
+
+obj 1334 0
+ Type: 
+ Referencing: 
+
+  <<
+    /S /URI
+    /URI (https://support.google.com/drive/answer/2375123?hl=en)
+  >>
+
+
+obj 1341 0
+ Type: 
+ Referencing: 
+
+  <<
+    /S /URI
+    /URI (http://pcsupport.about.com/od/backup/tp/free-backup-software.htm)
+  >>
+
+
+obj 1342 0
+ Type: 
+ Referencing: 
+
+  <<
+    /S /URI
+    /URI (http://pcsupport.about.com/od/backup/tp/free-backup-software.htm)
+  >>
+
+
+obj 1343 0
+ Type: 
+ Referencing: 
+
+  <<
+    /S /URI
+    /URI (https://photos.google.com/browser-not-supported/?ref=/)
+  >>
+
+
+obj 1344 0
+ Type: 
+ Referencing: 
+
+  <<
+    /S /URI
+    /URI (https://spideroak.com/)
+  >>
+
+
+obj 1345 0
+ Type: 
+ Referencing: 
+
+  <<
+    /S /URI
+    /URI (https://www.dropbox.com/)
+  >>
+
+
+obj 1346 0
+ Type: 
+ Referencing: 
+
+  <<
+    /S /URI
+    /URI (https://www.idrive.com/)
+  >>
+
+
+obj 1354 0
+ Type: 
+ Referencing: 
+
+  <<
+    /S /URI
+    /URI (https://www.bitcasa.com/personal/)
+  >>
+
+
+obj 1355 0
+ Type: 
+ Referencing: 
+
+  <<
+    /S /URI
+    /URI (http://www.symform.com/plans-pricing/)
+  >>
+
+
+obj 1356 0
+ Type: 
+ Referencing: 
+
+  <<
+    /S /URI
+    /URI (https://www.sugarsync.com/pricing)
+  >>
+
+
+obj 1357 0
+ Type: 
+ Referencing: 
+
+  <<
+    /S /URI
+    /URI (https://www.dropbox.com/pro?oqa=rnro)
+  >>
+
+
+obj 1358 0
+ Type: 
+ Referencing: 
+
+  <<
+    /S /URI
+    /URI (https://onedrive.live.com/about/en-us/plans/)
+  >>
+
+
+obj 1369 0
+ Type: 
+ Referencing: 
+
+  <<
+    /S /URI
+    /URI (http://www.amazon.com/Toshiba-Canvio-Basics-Portable-Drive/dp/B005J7YBRW/ref=sr_1_1?ie=UTF8&qid=1430146751&sr=8-1&keywords=Toshiba+external+drive)
+  >>
+
+
+obj 1370 0
+ Type: 
+ Referencing: 
+
+  <<
+    /S /URI
+    /URI (http://www.amazon.com/Seagate-Expansion-Portable-External-STEA1000400/dp/B00TKFEEAS/ref=sr_1_3?ie=UTF8&qid=1430146728&sr=8-3&keywords=seagate+external+drive)
+  >>
+
+
+obj 1371 0
+ Type: 
+ Referencing: 
+
+  <<
+    /S /URI
+    /URI (http://www.amazon.com/Seagate-Backup-Portable-External-STDR1000102/dp/B00H4XH586/ref=sr_1_2?ie=UTF8&qid=1430146728&sr=8-2&keywords=seagate+external+drive)
+  >>
+
+
+obj 1372 0
+ Type: 
+ Referencing: 
+
+  <<
+    /S /URI
+    /URI (http://www.amazon.com/Seagate-Expansion-Portable-External-STBX1000101/dp/B008R7FC74/ref=sr_1_1?ie=UTF8&qid=1430146728&sr=8-1&keywords=seagate+external+drive)
+  >>
+
+
+obj 1373 0
+ Type: 
+ Referencing: 
+
+  <<
+    /S /URI
+    /URI (http://www.amazon.com/HGST-Western-Digital-Company-0S03801/dp/B00LJO82VK/ref=sr_1_3?ie=UTF8&qid=1430146618&sr=8-3&keywords=HGST++external+drive)
+  >>
+
+
+obj 1374 0
+ Type: 
+ Referencing: 
+
+  <<
+    /S /URI
+    /URI (http://www.amazon.com/HGST-High-Performance-Portable-Platinum-0S03694/dp/B00IVFDQFM/ref=sr_1_2?ie=UTF8&qid=1430146618&sr=8-2&keywords=HGST++external+drive)
+  >>
+
+
+obj 1375 0
+ Type: 
+ Referencing: 
+
+  <<
+    /S /URI
+    /URI (http://www.bestbackups.com/)
+  >>
+
+
+obj 1376 0
+ Type: 
+ Referencing: 
+
+  <<
+    /S /URI
+    /URI (http://www.bestbackups.com/comparison-tool/)
+  >>
+
+
+obj 1386 0
+ Type: 
+ Referencing: 
+
+  <<
+    /S /URI
+    /URI (https://rebit.com/rebit6)
+  >>
+
+
+obj 1387 0
+ Type: 
+ Referencing: 
+
+  <<
+    /S /URI
+    /URI (https://www.oo-software.com/en/diskimage-backup-your-data)
+  >>
+
+
+obj 1388 0
+ Type: 
+ Referencing: 
+
+  <<
+    /S /URI
+    /URI (http://www.acronis.com/en-us/promo/update-your-browser/index.html)
+  >>
+
+
+obj 1389 0
+ Type: 
+ Referencing: 
+
+  <<
+    /S /URI
+    /URI (https://www.carbonite.com/en/cloud-backup/personal-solutions/personal-plans/buy/)
+  >>
+
+
+obj 1390 0
+ Type: 
+ Referencing: 
+
+  <<
+    /S /URI
+    /URI (https://store.code42.com/store/)
+  >>
+
+
+obj 1391 0
+ Type: 
+ Referencing: 
+
+  <<
+    /S /URI
+    /URI (https://www.backblaze.com/)
+  >>
+
+
+obj 1392 0
+ Type: 
+ Referencing: 
+
+  <<
+    /S /URI
+    /URI (https://www.idrive.com/)
+  >>
+
+
+obj 1393 0
+ Type: 
+ Referencing: 
+
+  <<
+    /S /URI
+    /URI (https://www.amazon.com/clouddrive/pricing)
+  >>
+
+
+obj 1394 0
+ Type: 
+ Referencing: 
+
+  <<
+    /S /URI
+    /URI (https://spideroak.com/about/price-list)
+  >>
+
+
+obj 1399 0
+ Type: 
+ Referencing: 
+
+  <<
+    /S /URI
+    /URI (https://www.torproject.org/projects/torbrowser.html.en#downloads)
+  >>
+
+
+obj 1402 0
+ Type: 
+ Referencing: 
+
+  <<
+    /S /URI
+    /URI (https://www.eff.org/https-everywhere)
+  >>
+
+
+obj 1407 0
+ Type: 
+ Referencing: 
+
+  <<
+    /S /URI
+    /URI (http://www.cyberghostvpn.com/en_us)
+  >>
+
+
+obj 1426 0
+ Type: 
+ Referencing: 
+
+  <<
+    /S /URI
+    /URI (http://www.cyberghostvpn.com/en_us)
+  >>
+
+
+obj 1427 0
+ Type: 
+ Referencing: 
+
+  <<
+    /S /URI
+    /URI (https://www.eff.org/https-everywhere)
+  >>
+
+
+obj 1440 0
+ Type: 
+ Referencing: 
+
+  <<
+    /S /URI
+    /URI (https://heimdalsecurity.com/en/get-heimdal)
+  >>
+
+
+obj 1452 0
+ Type: 
+ Referencing: 
+
+  <<
+    /S /URI
+    /URI (https://www.malwarebytes.org/)
+  >>
+
+
+obj 1453 0
+ Type: 
+ Referencing: 
+
+  <<
+    /S /URI
+    /URI (https://www.malwarebytes.org/)
+  >>
+
+
+obj 1454 0
+ Type: 
+ Referencing: 
+
+  <<
+    /S /URI
+    /URI (http://www.lavasoft.com/)
+  >>
+
+
+obj 1455 0
+ Type: 
+ Referencing: 
+
+  <<
+    /S /URI
+    /URI (http://spybot-search-destroy.en.softonic.com/)
+  >>
+
+
+obj 1461 0
+ Type: 
+ Referencing: 
+
+  <<
+    /S /URI
+    /URI (https://twofactorauth.org/)
+  >>
+
+
+obj 1462 0
+ Type: 
+ Referencing: 
+
+  <<
+    /S /URI
+    /URI (http://www.cyberghostvpn.com/en_us)
+  >>
+
+
+obj 1465 0
+ Type: 
+ Referencing: 
+
+  <<
+    /S /URI
+    /URI (https://heimdalsecurity.com/en/)
+  >>
+
+
+obj 1496 0
+ Type: 
+ Referencing: 
+
+  <<
+    /S /URI
+    /URI (https://www.youtube.com/watch?v=ecZL4Q2EVuY)
+  >>
+
+
+obj 1513 0
+ Type: 
+ Referencing: 
+
+  <<
+    /S /URI
+    /URI (https://heimdalsecurity.com/blog/cryptowall-advanced-cryptolocker-variant/)
+  >>
+
+
+obj 1514 0
+ Type: 
+ Referencing: 
+
+  <<
+    /S /URI
+    /URI (http://www.nytimes.com/2015/01/04/opinion/sunday/how-my-mom-got-hacked.html?_r=1)
+  >>
+
+
+obj 1517 0
+ Type: 
+ Referencing: 
+
+  <<
+    /S /URI
+    /URI (https://www.teamviewer.com/en/index.aspx)
+  >>
+
+
+obj 1528 0
+ Type: 
+ Referencing: 
+
+  <<
+    /S /URI
+    /URI (https://www.malwarebytes.org/antiexploit/)
+  >>
+
+
+obj 1529 0
+ Type: 
+ Referencing: 
+
+  <<
+    /S /URI
+    /URI (https://heimdalsecurity.com/en/products/heimdal-free)
+  >>
+
+
+obj 1538 0
+ Type: 
+ Referencing: 
+
+  <<
+    /S /URI
+    /URI (http://dailysecuritytips.com/)
+  >>
+
+
+obj 1539 0
+ Type: 
+ Referencing: 
+
+  <<
+    /S /URI
+    /URI (http://dailysecuritytips.com/)
+  >>
+
+
+obj 1540 0
+ Type: 
+ Referencing: 
+
+  <<
+    /S /URI
+    /URI (http://cybersecuritycourse.co/)
+  >>
+
+
+obj 1541 0
+ Type: 
+ Referencing: 
+
+  <<
+    /S /URI
+    /URI (http://dailysecuritytips.com/)
+  >>
+
+
+obj 1555 0
+ Type: 
+ Referencing: 
+
+  <<
+    /S /URI
+    /URI (https://heimdalsecurity.com/blog/)
+  >>
+
+
+obj 1556 0
+ Type: 
+ Referencing: 
+
+  <<
+    /S /URI
+    /URI (https://gallery.mailchimp.com/9588e79f21453dd8e52df4d68/files/50_Security_Tips_Tricks_from_Top_Experts_Ebook.pdf)
+  >>
+
+
+obj 1557 0
+ Type: 
+ Referencing: 
+
+  <<
+    /S /URI
+    /URI (https://gallery.mailchimp.com/9588e79f21453dd8e52df4d68/files/50_Security_Tips_Tricks_from_Top_Experts_Ebook.pdf)
+  >>
+
+
+obj 1558 0
+ Type: 
+ Referencing: 
+
+  <<
+    /S /URI
+    /URI (https://heimdalsecurity.typeform.com/to/PJNCpw)
+  >>
+
+
+obj 1565 0
+ Type: 
+ Referencing: 
+
+  <<
+    /S /URI
+    /URI (https://heimdalsecurity.com/en/products/heimdal-corp)
+  >>
+
+
+obj 1566 0
+ Type: 
+ Referencing: 
+
+  <<
+    /S /URI
+    /URI (https://heimdalsecurity.com/en/products/heimdal-pro)
+  >>
+
+
+obj 1567 0
+ Type: 
+ Referencing: 
+
+  <<
+    /S /URI
+    /URI (https://heimdalsecurity.com/en/products/heimdal-free/thank-you)
+  >>
+
+
+obj 1578 0
+ Type: 
+ Referencing: 
+
+  <<
+    /S /URI
+    /URI (http://www.csoonline.com/article/2877267/identity-access/beyond-passwords-with-biometric-technology.html)
+  >>
+
+
+obj 1579 0
+ Type: 
+ Referencing: 
+
+  <<
+    /S /URI
+    /URI (http://www.csoonline.com/article/2877267/identity-access/beyond-passwords-with-biometric-technology.html)
+  >>
+
+
+obj 248 0
+ Type: 
+ Referencing: 
+
+  <<
+    /CreationDate "(D:20160422152643+03'00')"
+    /Creator '(Adobe Illustrator CC 2015 \\(Windows\\))'
+    /ModDate "(D:20160422172102+03'00')"
+    /Producer (Adobe PDF library 15.00)
+    /Title ([hs]  Cyber Security for Beginners_0)
+  >>
+
+

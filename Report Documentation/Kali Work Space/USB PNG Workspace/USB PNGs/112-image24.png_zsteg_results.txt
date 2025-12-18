@@ -1,0 +1,652 @@
+imagedata           .. file: hp200 (68010) BSD
+b1,r,lsb,xy         .. b1,r,msb,xy         .. b1,g,lsb,xy         .. b1,g,msb,xy         .. b1,b,lsb,xy         .. b1,b,msb,xy         .. b1,rgb,lsb,xy       .. b1,rgb,msb,xy       .. b1,bgr,lsb,xy       .. b1,bgr,msb,xy       .. b2,r,lsb,xy         .. b2,r,msb,xy         .. text: "\nUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU"
+b2,g,lsb,xy         .. file: VISX image file
+b2,g,msb,xy         .. text: ["U" repeated 101 times]
+b2,b,lsb,xy         .. b2,b,msb,xy         .. text: ["U" repeated 101 times]
+b2,rgb,lsb,xy       .. b2,rgb,msb,xy       .. b2,bgr,lsb,xy       .. b2,bgr,msb,xy       .. b3,r,lsb,xy         .. b3,r,msb,xy         .. b3,g,lsb,xy         .. b3,g,msb,xy         .. b3,b,lsb,xy         .. b3,b,msb,xy         .. b3,rgb,lsb,xy       .. b3,rgb,msb,xy       .. b3,bgr,lsb,xy       .. b3,bgr,msb,xy       .. b3p,r,lsb,xy        .. b3p,r,msb,xy        .. text: ["[" repeated 116 times]
+b3p,g,lsb,xy        .. text: "%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%&E"
+b3p,g,msb,xy        .. text: ["[" repeated 116 times]
+b3p,b,lsb,xy        .. b3p,b,msb,xy        .. text: ["[" repeated 116 times]
+b3p,rgb,lsb,xy      .. b3p,rgb,msb,xy      .. b3p,bgr,lsb,xy      .. b3p,bgr,msb,xy      .. b4,r,lsb,xy         .. text: ["f" repeated 46 times]
+b4,r,msb,xy         .. text: ["f" repeated 46 times]
+b4,g,lsb,xy         .. file: OpenPGP Public Key
+b4,g,msb,xy         .. file: OpenPGP Public Key
+b4,b,lsb,xy         .. text: ["f" repeated 46 times]
+b4,b,msb,xy         .. text: ["f" repeated 46 times]
+b4,rgb,lsb,xy       .. b4,rgb,msb,xy       .. b4,bgr,lsb,xy       .. b4,bgr,msb,xy       .. file: Targa image data (400-36889) - RLE 400 x 36889 x 1 +36889 +6401 - 9-bit alpha - right "\220\001\031\220\001\031\220\001\031\220\001\031\220\001\031\220\001\031\220\001\031\220\001\031\220\001\031\220\001\031\220\001\031\220\001\031\220\001\031\220\001\031\220\001\031\220\001\031\220\001\031\220\001\031\220\001\031\220\001\031\220\001\031\220\001\031\220\001\031\220\001\031\220\001\031\220\001\031\220\001\031\220\001\031\220\001\031\220\001\031\220\001\031\220\001\031\220\001\031\220\001\031\220\001\031\220\001\031\220\001\031\220\001\031\220\001\031\220\001\031\220\001\031\220\001\031\220"
+b5,r,lsb,xy         .. b5,r,msb,xy         .. b5,g,lsb,xy         .. b5,g,msb,xy         .. b5,b,lsb,xy         .. b5,b,msb,xy         .. b5,rgb,lsb,xy       .. b5,rgb,msb,xy       .. b5,bgr,lsb,xy       .. b5,bgr,msb,xy       .. b5p,r,lsb,xy        .. text: "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@I@"
+b5p,r,msb,xy        .. text: ["m" repeated 46 times]
+b5p,g,lsb,xy        .. file: AVR firmware, reset at 0x09c9
+b5p,g,msb,xy        .. text: ["m" repeated 46 times]
+b5p,b,lsb,xy        .. b5p,b,msb,xy        .. text: ["m" repeated 46 times]
+b5p,rgb,lsb,xy      .. b5p,rgb,msb,xy      .. b5p,bgr,lsb,xy      .. b5p,bgr,msb,xy      .. b6,r,lsb,xy         .. b6,r,msb,xy         .. b6,g,lsb,xy         .. b6,g,msb,xy         .. b6,b,lsb,xy         .. b6,b,msb,xy         .. b6,rgb,lsb,xy       .. b6,rgb,msb,xy       .. b6,bgr,lsb,xy       .. b6,bgr,msb,xy       .. b6p,r,lsb,xy        .. text: "                                                                                                                                                                                                                % "
+b6p,r,msb,xy        .. text: ["[" repeated 46 times]
+b6p,g,lsb,xy        .. text: "eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeje"
+b6p,g,msb,xy        .. text: ["[" repeated 46 times]
+b6p,b,lsb,xy        .. file: AVR firmware, reset at 0x00c0
+b6p,b,msb,xy        .. text: ["[" repeated 46 times]
+b6p,rgb,lsb,xy      .. b6p,rgb,msb,xy      .. b6p,bgr,lsb,xy      .. b6p,bgr,msb,xy      .. b7,r,lsb,xy         .. b7,r,msb,xy         .. b7,g,lsb,xy         .. b7,g,msb,xy         .. b7,b,lsb,xy         .. b7,b,msb,xy         .. b7,rgb,lsb,xy       .. b7,rgb,msb,xy       .. b7,bgr,lsb,xy       .. b7,bgr,msb,xy       .. b7p,r,lsb,xy        .. b7p,r,msb,xy        .. text: ["\t" repeated 208 times]
+b7p,g,lsb,xy        .. b7p,g,msb,xy        .. file: AVR firmware, reset at 0x0dcd
+b7p,b,lsb,xy        .. b7p,b,msb,xy        .. text: ";7777777777777777777777777777777777777777777777"
+b7p,rgb,lsb,xy      .. b7p,rgb,msb,xy      .. b7p,bgr,lsb,xy      .. b7p,bgr,msb,xy      .. b8,r,lsb,xy         .. b8,r,msb,xy         .. b8,g,lsb,xy         .. b8,g,msb,xy         .. b8,b,lsb,xy         .. b8,b,msb,xy         .. b8,rgb,lsb,xy       .. b8,rgb,msb,xy       .. b8,bgr,lsb,xy       .. b8,bgr,msb,xy       .. b1,r,lsb,xy,prime   .. b1,r,msb,xy,prime   .. b1,g,lsb,xy,prime   .. b1,g,msb,xy,prime   .. b1,b,lsb,xy,prime   .. b1,b,msb,xy,prime   .. b1,rgb,lsb,xy,prime .. b1,rgb,msb,xy,prime .. b1,bgr,lsb,xy,prime .. b1,bgr,msb,xy,prime .. b2,r,lsb,xy,prime   .. b2,r,msb,xy,prime   .. text: "TUUUUUUUUUUUUUU"
+b2,g,lsb,xy,prime   .. file: VISX image file
+b2,g,msb,xy,prime   .. text: "VUUUUUUUUUUUUUU"
+b2,b,lsb,xy,prime   .. b2,b,msb,xy,prime   .. text: "TUUUUUUUUUUUUUU"
+b2,rgb,lsb,xy,prime .. b2,rgb,msb,xy,prime .. text: " HUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU!XUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU"
+b2,bgr,lsb,xy,prime .. b2,bgr,msb,xy,prime .. text: " HUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU!IUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU"
+b3,r,lsb,xy,prime   .. b3,r,msb,xy,prime   .. b3,g,lsb,xy,prime   .. b3,g,msb,xy,prime   .. b3,b,lsb,xy,prime   .. b3,b,msb,xy,prime   .. b3,rgb,lsb,xy,prime .. b3,rgb,msb,xy,prime .. b3,bgr,lsb,xy,prime .. b3,bgr,msb,xy,prime .. b3p,r,lsb,xy,prime  .. b3p,r,msb,xy,prime  .. text: ["[" repeated 20 times]
+b3p,g,lsb,xy,prime  .. text: ["%" repeated 27 times]
+b3p,g,msb,xy,prime  .. text: ["[" repeated 20 times]
+b3p,b,lsb,xy,prime  .. b3p,b,msb,xy,prime  .. text: ["[" repeated 20 times]
+b3p,rgb,lsb,xy,prime.. b3p,rgb,msb,xy,prime.. text: "                                                                                 [[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[ `[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[["
+b3p,bgr,lsb,xy,prime.. b3p,bgr,msb,xy,prime.. text: "                                                                                 [[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[ #[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[["
+b4,r,lsb,xy,prime   .. text: "ffffffffffffffffffffffffffffffh"
+b4,r,msb,xy,prime   .. text: "affffffffffffffffffffffffffffff"
+b4,g,lsb,xy,prime   .. file: OpenPGP Public Key
+b4,g,msb,xy,prime   .. file: OpenPGP Public Key
+b4,b,lsb,xy,prime   .. text: "ffffffffffffffffffffffffffffff`"
+b4,b,msb,xy,prime   .. text: "`ffffffffffffffffffffffffffffff"
+b4,rgb,lsb,xy,prime .. text: "ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffh"
+b4,rgb,msb,xy,prime .. text: "`ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+b4,bgr,lsb,xy,prime .. text: "ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff`"
+b4,bgr,msb,xy,prime .. file: Targa image data (400-36889) - RLE 400 x 36889 x 1 +36889 +6401 - 9-bit alpha - right "\220\001\031\220\001\031\220\001\031\220\001\031\220\001\031\220\001\031\220\001\031\220\001\031\220\001\031\220\001\031\220\001\031\220\001\031\220\001\031\220\001\031\220\001\031\220\001\031\220\001\031\220\001\031\220\001\031\220\001\031\220\001\031\220\001\031\220\001\031\220\001\031\220\001\031\220\001\031\220\001\031\220\001\031\220\001\031\220\001\031\220\001\031\220\001\031\220\001\031\220\001\031\220afffffffffffffffffffffff"
+b5,r,lsb,xy,prime   .. b5,r,msb,xy,prime   .. b5,g,lsb,xy,prime   .. b5,g,msb,xy,prime   .. b5,b,lsb,xy,prime   .. b5,b,msb,xy,prime   .. b5,rgb,lsb,xy,prime .. b5,rgb,msb,xy,prime .. b5,bgr,lsb,xy,prime .. b5,bgr,msb,xy,prime .. b5p,r,lsb,xy,prime  .. text: "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@F"
+b5p,r,msb,xy,prime  .. text: "bmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm\rbmmmmmmmmmmmmmmmmmmmmmmmmmmmm"
+b5p,g,lsb,xy,prime  .. file: AVR firmware, reset at 0x09c9
+b5p,g,msb,xy,prime  .. text: "smmmmmmmmmmmmmmmmmmmmmmmmmmmmmm"
+b5p,b,lsb,xy,prime  .. b5p,b,msb,xy,prime  .. text: "ammmmmmmmmmmmmmmmmmmmmmmmmmmmmm\rnmmmmmmmmmmmmmmmmmmmmmmmmmmmm"
+b5p,rgb,lsb,xy,prime.. text: ["A" repeated 81 times]
+b5p,rgb,msb,xy,prime.. text: ["m" repeated 62 times]
+b5p,bgr,lsb,xy,prime.. b5p,bgr,msb,xy,prime.. text: ["m" repeated 62 times]
+b6,r,lsb,xy,prime   .. b6,r,msb,xy,prime   .. b6,g,lsb,xy,prime   .. b6,g,msb,xy,prime   .. b6,b,lsb,xy,prime   .. b6,b,msb,xy,prime   .. b6,rgb,lsb,xy,prime .. b6,rgb,msb,xy,prime .. b6,bgr,lsb,xy,prime .. b6,bgr,msb,xy,prime .. b6p,r,lsb,xy,prime  .. text: "                                        \""
+b6p,r,msb,xy,prime  .. text: "D[[[[[[[[[[[[[[[[[[[[[[[[[[[[[["
+b6p,g,lsb,xy,prime  .. text: "eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeef"
+b6p,g,msb,xy,prime  .. text: "f[[[[[[[[[[[[[[[[[[[[[[[[[[[[[["
+b6p,b,lsb,xy,prime  .. file: AVR firmware, reset at 0x00c0
+b6p,b,msb,xy,prime  .. text: "C[[[[[[[[[[[[[[[[[[[[[[[[[[[[[["
+b6p,rgb,lsb,xy,prime.. text: ["!" repeated 81 times]
+b6p,rgb,msb,xy,prime.. text: ["[" repeated 62 times]
+b6p,bgr,lsb,xy,prime.. file: AVR firmware, reset at 0x01c1
+b6p,bgr,msb,xy,prime.. text: ["[" repeated 62 times]
+b7,r,lsb,xy,prime   .. b7,r,msb,xy,prime   .. b7,g,lsb,xy,prime   .. b7,g,msb,xy,prime   .. b7,b,lsb,xy,prime   .. b7,b,msb,xy,prime   .. b7,rgb,lsb,xy,prime .. b7,rgb,msb,xy,prime .. b7,bgr,lsb,xy,prime .. b7,bgr,msb,xy,prime .. b7p,r,lsb,xy,prime  .. b7p,r,msb,xy,prime  .. text: "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t7777777777777777777777777777777\t7777777777777777777777777777"
+b7p,g,lsb,xy,prime  .. b7p,g,msb,xy,prime  .. file: AVR firmware, reset at 0x0dcd
+b7p,b,lsb,xy,prime  .. b7p,b,msb,xy,prime  .. text: "7777777777777777777777777777777;7777777777777777777777777777"
+b7p,rgb,lsb,xy,prime.. b7p,rgb,msb,xy,prime.. text: ["7" repeated 62 times]
+b7p,bgr,lsb,xy,prime.. b7p,bgr,msb,xy,prime.. text: ["7" repeated 62 times]
+b8,r,lsb,xy,prime   .. file: AVR firmware, reset at 0x08c8
+b8,r,msb,xy,prime   .. text: ["o" repeated 62 times]
+b8,g,lsb,xy,prime   .. b8,g,msb,xy,prime   .. file: OpenPGP Public Key
+b8,b,lsb,xy,prime   .. b8,b,msb,xy,prime   .. text: ["o" repeated 62 times]
+b8,rgb,lsb,xy,prime .. b8,rgb,msb,xy,prime .. text: ["o" repeated 13 times]
+b8,bgr,lsb,xy,prime .. b8,bgr,msb,xy,prime .. text: ["o" repeated 13 times]
+b1,r,lsb,yx         .. b1,r,msb,yx         .. b1,g,lsb,yx         .. b1,g,msb,yx         .. b1,b,lsb,yx         .. b1,b,msb,yx         .. b1,rgb,lsb,yx       .. b1,rgb,msb,yx       .. b1,bgr,lsb,yx       .. b1,bgr,msb,yx       .. b2,r,lsb,yx         .. text: "UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUJ"
+b2,r,msb,yx         .. b2,g,lsb,yx         .. b2,g,msb,yx         .. text: "VUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU"
+b2,b,lsb,yx         .. b2,b,msb,yx         .. b2,rgb,lsb,yx       .. b2,rgb,msb,yx       .. b2,bgr,lsb,yx       .. b2,bgr,msb,yx       .. b3,r,lsb,yx         .. b3,r,msb,yx         .. b3,g,lsb,yx         .. b3,g,msb,yx         .. file: OpenPGP Secret Key
+b3,b,lsb,yx         .. b3,b,msb,yx         .. b3,rgb,lsb,yx       .. b3,rgb,msb,yx       .. b3,bgr,lsb,yx       .. b3,bgr,msb,yx       .. b3p,r,lsb,yx        .. text: "%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%$["
+b3p,r,msb,yx        .. b3p,g,lsb,yx        .. text: "*JJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJiv"
+b3p,g,msb,yx        .. text: "TRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR"
+b3p,b,lsb,yx        .. b3p,b,msb,yx        .. b3p,rgb,lsb,yx      .. text: ["+" repeated 255 times]
+b3p,rgb,msb,yx      .. b3p,bgr,lsb,yx      .. b3p,bgr,msb,yx      .. b4,r,lsb,yx         .. b4,r,msb,yx         .. b4,g,lsb,yx         .. file: OpenPGP Public Key
+b4,g,msb,yx         .. text: "YUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU"
+b4,b,lsb,yx         .. text: "wvwwfVUDDD33C2#2\""
+b4,b,msb,yx         .. b4,rgb,lsb,yx       .. b4,rgb,msb,yx       .. b4,bgr,lsb,yx       .. b4,bgr,msb,yx       .. b5,r,lsb,yx         .. b5,r,msb,yx         .. b5,g,lsb,yx         .. b5,g,msb,yx         .. b5,b,lsb,yx         .. b5,b,msb,yx         .. b5,rgb,lsb,yx       .. b5,rgb,msb,yx       .. b5,bgr,lsb,yx       .. b5,bgr,msb,yx       .. b5p,r,lsb,yx        .. text: "AIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIL"
+b5p,r,msb,yx        .. b5p,g,lsb,yx        .. text: "]vummmdcRRH8-$%"
+b5p,g,msb,yx        .. text: "SKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK"
+b5p,b,lsb,yx        .. b5p,b,msb,yx        .. b5p,rgb,lsb,yx      .. text: "AJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJ"
+b5p,rgb,msb,yx      .. text: ["R" repeated 255 times]
+b5p,bgr,lsb,yx      .. text: ["z" repeated 255 times]
+b5p,bgr,msb,yx      .. text: ["^" repeated 255 times]
+b6,r,lsb,yx         .. b6,r,msb,yx         .. b6,g,lsb,yx         .. b6,g,msb,yx         .. b6,b,lsb,yx         .. b6,b,msb,yx         .. b6,rgb,lsb,yx       .. b6,rgb,msb,yx       .. b6,bgr,lsb,yx       .. b6,bgr,msb,yx       .. b6p,r,lsb,yx        .. text: "!%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%$"
+b6p,r,msb,yx        .. b6p,g,lsb,yx        .. text: "fjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjki"
+b6p,g,msb,yx        .. text: "fVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV"
+b6p,b,lsb,yx        .. b6p,b,msb,yx        .. b6p,rgb,lsb,yx      .. text: "!&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&"
+b6p,rgb,msb,yx      .. text: ["d" repeated 255 times]
+b6p,bgr,lsb,yx      .. b6p,bgr,msb,yx      .. text: ["}" repeated 255 times]
+b7,r,lsb,yx         .. b7,r,msb,yx         .. b7,g,lsb,yx         .. b7,g,msb,yx         .. b7,b,lsb,yx         .. b7,b,msb,yx         .. b7,rgb,lsb,yx       .. b7,rgb,msb,yx       .. b7,bgr,lsb,yx       .. b7,bgr,msb,yx       .. b7p,r,lsb,yx        .. b7p,r,msb,yx        .. file: AVR firmware, reset at 0x0989
+b7p,g,lsb,yx        .. b7p,g,msb,yx        .. text: "M------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------"
+b7p,b,lsb,yx        .. b7p,b,msb,yx        .. b7p,rgb,lsb,yx      .. b7p,rgb,msb,yx      .. text: ["I" repeated 255 times]
+b7p,bgr,lsb,yx      .. b7p,bgr,msb,yx      .. text: ["{" repeated 255 times]
+b8,r,lsb,yx         .. file: AVR firmware, reset at 0x09c8
+b8,r,msb,yx         .. b8,g,lsb,yx         .. b8,g,msb,yx         .. file: OpenPGP Public Key
+b8,b,lsb,yx         .. b8,b,msb,yx         .. b8,rgb,lsb,yx       .. b8,rgb,msb,yx       .. b8,bgr,lsb,yx       .. b8,bgr,msb,yx       .. b1,r,lsb,yx,prime   .. b1,r,msb,yx,prime   .. b1,g,lsb,yx,prime   .. b1,g,msb,yx,prime   .. b1,b,lsb,yx,prime   .. b1,b,msb,yx,prime   .. b1,rgb,lsb,yx,prime .. b1,rgb,msb,yx,prime .. b1,bgr,lsb,yx,prime .. b1,bgr,msb,yx,prime .. b2,r,lsb,yx,prime   .. file: VISX image file
+b2,r,msb,yx,prime   .. text: "GUUUUUUUUUUUUUUU_UUUUUUUUUUUUUUU"
+b2,g,lsb,yx,prime   .. text: ["U" repeated 13 times]
+b2,g,msb,yx,prime   .. file: VISX image file
+b2,b,lsb,yx,prime   .. b2,b,msb,yx,prime   .. text: "VUUUUUUUUUUUUU"
+b2,rgb,lsb,yx,prime .. text: "dJql%|\\a"
+b2,rgb,msb,yx,prime .. text: "VUUUUUUUUUUUUUUUU"
+b2,bgr,lsb,yx,prime .. b2,bgr,msb,yx,prime .. text: "!0%TUUUUUUUUUUUUUUUU"
+b3,r,lsb,yx,prime   .. b3,r,msb,yx,prime   .. b3,g,lsb,yx,prime   .. b3,g,msb,yx,prime   .. b3,b,lsb,yx,prime   .. b3,b,msb,yx,prime   .. b3,rgb,lsb,yx,prime .. b3,rgb,msb,yx,prime .. b3,bgr,lsb,yx,prime .. b3,bgr,msb,yx,prime .. b3p,r,lsb,yx,prime  .. text: "%%%%%%%%%%%%%%%%%%%%%%%%%%$"
+b3p,r,msb,yx,prime  .. text: "@xY[[[[[[[[[[[[[[[[[[["
+b3p,g,lsb,yx,prime  .. text: "JJJJJJJJJJJJJJJJJJJJJJJJJJI"
+b3p,g,msb,yx,prime  .. text: ["R" repeated 26 times]
+b3p,b,lsb,yx,prime  .. b3p,b,msb,yx,prime  .. text: ["[" repeated 18 times]
+b3p,rgb,lsb,yx,prime.. text: ["+" repeated 80 times]
+b3p,rgb,msb,yx,prime.. text: "```````````````````````````````````````````````````````U.."
+b3p,bgr,lsb,yx,prime.. b3p,bgr,msb,yx,prime.. file: OpenPGP Secret Key
+b4,r,lsb,yx,prime   .. file: OpenPGP Public Key
+b4,r,msb,yx,prime   .. file: OpenPGP Public Key
+b4,g,lsb,yx,prime   .. text: ["f" repeated 30 times]
+b4,g,msb,yx,prime   .. file: VISX image file
+b4,b,lsb,yx,prime   .. text: ["f" repeated 30 times]
+b4,b,msb,yx,prime   .. text: "{wwwwwwwwwwwwwwwwwwwwwwwwwww"
+b4,rgb,lsb,yx,prime .. file: OpenPGP Public Key
+b4,rgb,msb,yx,prime .. b4,bgr,lsb,yx,prime .. b4,bgr,msb,yx,prime .. b5,r,lsb,yx,prime   .. b5,r,msb,yx,prime   .. b5,g,lsb,yx,prime   .. b5,g,msb,yx,prime   .. b5,b,lsb,yx,prime   .. b5,b,msb,yx,prime   .. b5,rgb,lsb,yx,prime .. b5,rgb,msb,yx,prime .. b5,bgr,lsb,yx,prime .. b5,bgr,msb,yx,prime .. b5p,r,lsb,yx,prime  .. text: "IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII$"
+b5p,r,msb,yx,prime  .. text: "fmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm"
+b5p,g,lsb,yx,prime  .. b5p,g,msb,yx,prime  .. text: ["K" repeated 40 times]
+b5p,b,lsb,yx,prime  .. file: RDI Acoustic Doppler Current Profiler (ADCP)
+b5p,b,msb,yx,prime  .. text: "wnnnnnnnnnnnnnnnnnnnnnnnnnnn\t"
+b5p,rgb,lsb,yx,prime.. text: "JJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJ%%"
+b5p,rgb,msb,yx,prime.. text: ["R" repeated 80 times]
+b5p,bgr,lsb,yx,prime.. file: MGR bitmap, old format, 1-bit deep, 16-bit aligned
+b5p,bgr,msb,yx,prime.. text: ["^" repeated 80 times]
+b6,r,lsb,yx,prime   .. b6,r,msb,yx,prime   .. b6,g,lsb,yx,prime   .. b6,g,msb,yx,prime   .. file: OpenPGP Secret Key
+b6,b,lsb,yx,prime   .. b6,b,msb,yx,prime   .. b6,rgb,lsb,yx,prime .. b6,rgb,msb,yx,prime .. b6,bgr,lsb,yx,prime .. b6,bgr,msb,yx,prime .. b6p,r,lsb,yx,prime  .. text: ["%" repeated 40 times]
+b6p,r,msb,yx,prime  .. text: "M[[[[[[[[[[[[[[[[[[[[[[[[[[[[[["
+b6p,g,lsb,yx,prime  .. text: ["j" repeated 40 times]
+b6p,g,msb,yx,prime  .. text: ["V" repeated 40 times]
+b6p,b,lsb,yx,prime  .. b6p,b,msb,yx,prime  .. text: "n]]]]]]]]]]]]]]]]]]]]]]]]]]]"
+b6p,rgb,lsb,yx,prime.. text: ["&" repeated 80 times]
+b6p,rgb,msb,yx,prime.. text: ["d" repeated 80 times]
+b6p,bgr,lsb,yx,prime.. b6p,bgr,msb,yx,prime.. text: ["}" repeated 80 times]
+b7,r,lsb,yx,prime   .. b7,r,msb,yx,prime   .. b7,g,lsb,yx,prime   .. b7,g,msb,yx,prime   .. b7,b,lsb,yx,prime   .. b7,b,msb,yx,prime   .. b7,rgb,lsb,yx,prime .. b7,rgb,msb,yx,prime .. b7,bgr,lsb,yx,prime .. b7,bgr,msb,yx,prime .. b7p,r,lsb,yx,prime  .. b7p,r,msb,yx,prime  .. file: AVR firmware, reset at 0x09c9
+b7p,g,lsb,yx,prime  .. b7p,g,msb,yx,prime  .. text: ["-" repeated 40 times]
+b7p,b,lsb,yx,prime  .. b7p,b,msb,yx,prime  .. text: "];;;;;;;;;;;;;;;;;;;;;;;;;;;'"
+b7p,rgb,lsb,yx,prime.. b7p,rgb,msb,yx,prime.. text: ["I" repeated 80 times]
+b7p,bgr,lsb,yx,prime.. b7p,bgr,msb,yx,prime.. text: ["{" repeated 80 times]
+b8,r,lsb,yx,prime   .. file: AVR firmware, reset at 0x09c9
+b8,r,msb,yx,prime   .. b8,g,lsb,yx,prime   .. b8,g,msb,yx,prime   .. text: ["[" repeated 80 times]
+b8,b,lsb,yx,prime   .. b8,b,msb,yx,prime   .. text: "wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwO"
+b8,rgb,lsb,yx,prime .. b8,rgb,msb,yx,prime .. b8,bgr,lsb,yx,prime .. b8,bgr,msb,yx,prime .. b1,r,lsb,XY         .. b1,r,msb,XY         .. b1,g,lsb,XY         .. b1,g,msb,XY         .. b1,b,lsb,XY         .. b1,b,msb,XY         .. b1,rgb,lsb,XY       .. b1,rgb,msb,XY       .. b1,bgr,lsb,XY       .. file: OpenPGP Secret Key
+b1,bgr,msb,XY       .. b2,r,lsb,XY         .. b2,r,msb,XY         .. text: "IUUUUc1AcUUUU5hUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU"
+b2,g,lsb,XY         .. b2,g,msb,XY         .. b2,b,lsb,XY         .. text: "RUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU"
+b2,b,msb,XY         .. text: "jUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU"
+b2,rgb,lsb,XY       .. b2,rgb,msb,XY       .. b2,bgr,lsb,XY       .. b2,bgr,msb,XY       .. b3,r,lsb,XY         .. b3,r,msb,XY         .. b3,g,lsb,XY         .. b3,g,msb,XY         .. b3,b,lsb,XY         .. b3,b,msb,XY         .. b3,rgb,lsb,XY       .. b3,rgb,msb,XY       .. b3,bgr,lsb,XY       .. b3,bgr,msb,XY       .. b3p,r,lsb,XY        .. text: "kDJJJJJK"
+b3p,r,msb,XY        .. text: "dRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR"
+b3p,g,lsb,XY        .. b3p,g,msb,XY        .. b3p,b,lsb,XY        .. text: ".^bD'*JJJJK=Gjh~JJJJJD\r&JJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJH"
+b3p,b,msb,XY        .. text: "dRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR"
+b3p,rgb,lsb,XY      .. text: "Y^^^^^^^^^^^^^^^^{"
+b3p,rgb,msb,XY      .. file: OpenPGP Public Key
+b3p,bgr,lsb,XY      .. text: ":9`:^^^^^^^^^^^^^^^^{ "
+b3p,bgr,msb,XY      .. text: "\\zzzzzzzzzzzzzzzz"
+b4,r,lsb,XY         .. b4,r,msb,XY         .. file: OpenPGP Secret Key
+b4,g,lsb,XY         .. b4,g,msb,XY         .. b4,b,lsb,XY         .. file: OpenPGP Public Key
+b4,b,msb,XY         .. text: ["U" repeated 8 times]
+b4,rgb,lsb,XY       .. b4,rgb,msb,XY       .. b4,bgr,lsb,XY       .. b4,bgr,msb,XY       .. b5,r,lsb,XY         .. b5,r,msb,XY         .. b5,g,lsb,XY         .. b5,g,msb,XY         .. b5,b,lsb,XY         .. b5,b,msb,XY         .. b5,rgb,lsb,XY       .. b5,rgb,msb,XY       .. b5,bgr,lsb,XY       .. b5,bgr,msb,XY       .. b5p,r,lsb,XY        .. text: "QBJ:SWQBRRRRRRRRXJPXPB8JRRRRRRRRR8AJRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRKSJQ2R<Q[[[[[[[[ZI`QY[XO[[[[[[[[@SS[[[[[[[[[[[[["
+b5p,r,msb,XY        .. text: "BJJJJJJJJ"
+b5p,g,lsb,XY        .. b5p,g,msb,XY        .. b5p,b,lsb,XY        .. b5p,b,msb,XY        .. text: ["K" repeated 8 times]
+b5p,rgb,lsb,XY      .. text: "VNGWMW?VW\\V>VN@VWWWWWWWWWWWWWWWW^@MVWG^@UG@W>@MWWWWWWWWWWWWWWWWWVW>@GNNWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW"
+b5p,rgb,msb,XY      .. b5p,bgr,lsb,XY      .. b5p,bgr,msb,XY      .. b6,r,lsb,XY         .. b6,r,msb,XY         .. text: "UYTUUUUUUUUUUUUuQVUQ"
+b6,g,lsb,XY         .. b6,g,msb,XY         .. b6,b,lsb,XY         .. b6,b,msb,XY         .. b6,rgb,lsb,XY       .. b6,rgb,msb,XY       .. b6,bgr,lsb,XY       .. b6,bgr,msb,XY       .. b6p,r,lsb,XY        .. b6p,r,msb,XY        .. file: OpenPGP Secret Key
+b6p,g,lsb,XY        .. b6p,g,msb,XY        .. b6p,b,lsb,XY        .. text: "gZ^ljdemjjjjjjjjm]iojnc^jjjjjjjjdcefjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjqgrhljmhoooooooojpmhtomsoooooooogkkooooooooooooo"
+b6p,b,msb,XY        .. text: ["V" repeated 8 times]
+b6p,rgb,lsb,XY      .. b6p,rgb,msb,XY      .. b6p,bgr,lsb,XY      .. text: "fn[k]kobkhfbfflfkkkkkkkkkkkkkkkknd]fkgnli[lkbl]kkkkkkkkkkkkkkkkkfsblgffkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk"
+b6p,bgr,msb,XY      .. b7,r,lsb,XY         .. b7,r,msb,XY         .. b7,g,lsb,XY         .. b7,g,msb,XY         .. b7,b,lsb,XY         .. b7,b,msb,XY         .. b7,rgb,lsb,XY       .. b7,rgb,msb,XY       .. b7,bgr,lsb,XY       .. b7,bgr,msb,XY       .. b7p,r,lsb,XY        .. text: "UPRNUUUPTTTTTTTTVRTVTPNRTTTTTTTTTNQRTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTSURULTNUWWWWWWWWVSXUWWVSWWWWWWWWPUUWWWWWWWWWWWWW"
+b7p,r,msb,XY        .. text: "\n********jJ*j*\nrJ*********r"
+b7p,g,lsb,XY        .. b7p,g,msb,XY        .. b7p,b,lsb,XY        .. b7p,b,msb,XY        .. text: ["-" repeated 8 times]
+b7p,rgb,lsb,XY      .. text: "TRQUSUOTUVTNTRPTUUUUUUUUUUUUUUUUVPSTUQVPUQPUNPSUUUUUUUUUUUUUUUUUTUNPQRRUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU"
+b7p,rgb,msb,XY      .. b7p,bgr,lsb,XY      .. b7p,bgr,msb,XY      .. b8,r,lsb,XY         .. b8,r,msb,XY         .. text: ["U" repeated 17 times]
+b8,g,lsb,XY         .. b8,g,msb,XY         .. b8,b,lsb,XY         .. b8,b,msb,XY         .. file: OpenPGP Public Key
+b8,rgb,lsb,XY       .. b8,rgb,msb,XY       .. b8,bgr,lsb,XY       .. b8,bgr,msb,XY       .. file: OpenPGP Public Key
+b1,r,lsb,XY,prime   .. b1,r,msb,XY,prime   .. b1,g,lsb,XY,prime   .. b1,g,msb,XY,prime   .. b1,b,lsb,XY,prime   .. b1,b,msb,XY,prime   .. file: Applesoft BASIC program data, first line number 4
+b1,rgb,lsb,XY,prime .. b1,rgb,msb,XY,prime .. b1,bgr,lsb,XY,prime .. b1,bgr,msb,XY,prime .. b2,r,lsb,XY,prime   .. text: "]UUUUUUUUUUU^j"
+b2,r,msb,XY,prime   .. text: "TEUUUUUUUUUUUUUUU"
+b2,g,lsb,XY,prime   .. text: "UUUUUUU(4H"
+b2,g,msb,XY,prime   .. text: "VVeUUUUUUUUUUUQTUUUUUUUUUUU"
+b2,b,lsb,XY,prime   .. text: "]UUUUUUUUUUUUW@"
+b2,b,msb,XY,prime   .. text: "UuUUUUUUUUUUUUUUU"
+b2,rgb,lsb,XY,prime .. b2,rgb,msb,XY,prime .. b2,bgr,lsb,XY,prime .. b2,bgr,msb,XY,prime .. b3,r,lsb,XY,prime   .. b3,r,msb,XY,prime   .. b3,g,lsb,XY,prime   .. b3,g,msb,XY,prime   .. b3,b,lsb,XY,prime   .. b3,b,msb,XY,prime   .. b3,rgb,lsb,XY,prime .. b3,rgb,msb,XY,prime .. b3,bgr,lsb,XY,prime .. b3,bgr,msb,XY,prime .. b3p,r,lsb,XY,prime  .. text: "\n]JH\nJ\nJJJJJJJJJJJJJJJJJJJKGn#ooooooooooooooooooh"
+b3p,r,msb,XY,prime  .. text: "PRPRRRRRRRRRRRRRRRRRRR"
+b3p,g,lsb,XY,prime  .. text: "*FJFJJJJJJJJJJJJJJJ"
+b3p,g,msb,XY,prime  .. text: "TbRbRRRRRRRRRRRRRRRQQRRRRRRRRRRRRRRRJ\tQR"
+b3p,b,lsb,XY,prime  .. text: "JjJJJJJJJJJJJJJJJJJJJKSn"
+b3p,b,msb,XY,prime  .. text: "SRVRRRRRRRRRRRRRRRRRRR"
+b3p,rgb,lsb,XY,prime.. text: "^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^c^$cccB$"
+b3p,rgb,msb,XY,prime.. file: MGR bitmap, old format, 1-bit deep, 32-bit aligned
+b3p,bgr,lsb,XY,prime.. text: "^^^^^`^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^c^"
+b3p,bgr,msb,XY,prime.. text: "zzzzz<;zzzzz"
+b4,r,lsb,XY,prime   .. text: "\r\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"2"
+b4,r,msb,XY,prime   .. text: "QUUQUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU]"
+b4,g,lsb,XY,prime   .. text: "\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"$\"B\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"$"
+b4,g,msb,XY,prime   .. text: "HDHDDHDDDDDDDDDDDDDDDDDDDDDD$DBDDDDDDDDDDDDDDDDDDDDDDD$73CDD"
+b4,b,lsb,XY,prime   .. b4,b,msb,XY,prime   .. text: "VUU]UUUUUUUUUUUUUUUUUUUUUUUUUUUUUU]"
+b4,rgb,lsb,XY,prime .. b4,rgb,msb,XY,prime .. b4,bgr,lsb,XY,prime .. b4,bgr,msb,XY,prime .. b5,r,lsb,XY,prime   .. b5,r,msb,XY,prime   .. b5,g,lsb,XY,prime   .. b5,g,msb,XY,prime   .. b5,b,lsb,XY,prime   .. b5,b,msb,XY,prime   .. b5,rgb,lsb,XY,prime .. b5,rgb,msb,XY,prime .. b5,bgr,lsb,XY,prime .. b5,bgr,msb,XY,prime .. b5p,r,lsb,XY,prime  .. text: "BR9RRPBRRBRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRZK[QG[[[[[[[[[[[[[[[[[[[[[[[[[[[Zddddddddddddddddddddddddddddduotmm}mmmmmmmmmmmmmmmmmmmmmmm~nvvvvvvvvvvvvvvvvvvvvvvvyP"
+b5p,r,msb,XY,prime  .. text: "JJ\nBJJBJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJZ"
+b5p,g,lsb,XY,prime  .. text: "$$$$$$$$$$$$$$$$$$$6uo"
+b5p,g,msb,XY,prime  .. text: "PHPHHPHHHHHHHHHHHHHHHHHHHHHH(HDHHHHHHHHHHHHHHHHHHHHHHH(.&FII"
+b5p,b,lsb,XY,prime  .. text: "f}\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+b5p,b,msb,XY,prime  .. text: "MKK[KKKKKKKKKKKKKKKKKKKKKKKKKKKKKK["
+b5p,rgb,lsb,XY,prime.. text: "GWWV>NWWWWWGGWWWWW@WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWXWIXXXPI@?XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXP````g`````````````````````````````````````````````````````qjjzqbjjjjyjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj"
+b5p,rgb,msb,XY,prime.. text: ["V" repeated 41 times]
+b5p,bgr,lsb,XY,prime.. b5p,bgr,msb,XY,prime.. text: ["G" repeated 41 times]
+b6,r,lsb,XY,prime   .. b6,r,msb,XY,prime   .. text: "EUUyYUUU"
+b6,g,lsb,XY,prime   .. b6,g,msb,XY,prime   .. file: ddis/ddif
+b6,b,lsb,XY,prime   .. b6,b,msb,XY,prime   .. file: OpenPGP Public Key
+b6,rgb,lsb,XY,prime .. b6,rgb,msb,XY,prime .. file: OpenPGP Secret Key
+b6,bgr,lsb,XY,prime .. b6,bgr,msb,XY,prime .. b6p,r,lsb,XY,prime  .. b6p,r,msb,XY,prime  .. text: "EUUEUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUu"
+b6p,g,lsb,XY,prime  .. text: ["\n" repeated 22 times]
+b6p,g,msb,XY,prime  .. text: "`P`PP`PPPPPPPPPPPPPPPPPPPPPP"
+b6p,b,lsb,XY,prime  .. text: "ZhajjiZjjnjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjnsohgooooooooooooooooooooooooooomuumuuuuuuuuuuuuuuuuuuuuuuuuuwtp~pppppppppppppppppppppppppp"
+b6p,b,msb,XY,prime  .. text: "ZVVvVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVv"
+b6p,rgb,lsb,XY,prime.. b6p,rgb,msb,XY,prime.. file: OpenPGP Secret Key
+b6p,bgr,lsb,XY,prime.. text: "[kkbbfkkkkkg[kkkkklkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkklkqlllhqdollllllllllllllllllllllllllllllllllllllllllllllllllllllltttttottttttttttttttttttttttttttttttttttttttttttttttttttttlurrr}jrrrrqrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr"
+b6p,bgr,msb,XY,prime.. text: "6666666666666666666666666666666666666666666666666666666....."
+b7,r,lsb,XY,prime   .. b7,r,msb,XY,prime   .. b7,g,lsb,XY,prime   .. b7,g,msb,XY,prime   .. b7,b,lsb,XY,prime   .. b7,b,msb,XY,prime   .. b7,rgb,lsb,XY,prime .. b7,rgb,msb,XY,prime .. b7,bgr,lsb,XY,prime .. b7,bgr,msb,XY,prime .. b7p,r,lsb,XY,prime  .. text: "PTOTTTPTTPTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTVSWUQWWWWWWWWWWWWWWWWWWWWWWWWWWWVXXXXXXXXXXXXXXXXXXXXXXXXXXXXX][\\[[_[[[[[[[[[[[[[[[[[[[[[[[^Z\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\_T"
+b7p,r,msb,XY,prime  .. text: "***\n**\n******************************j"
+b7p,g,lsb,XY,prime  .. b7p,g,msb,XY,prime  .. text: "A!A!!A!!!!!!!!!!!!!!!!!!!!!!!!"
+b7p,b,lsb,XY,prime  .. b7p,b,msb,XY,prime  .. text: "5--m------------------------------m"
+b7p,rgb,lsb,XY,prime.. text: "QUUTNRUUUUUQQUUUUUPUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUVUSVVVTSPOVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVTXXXXYXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX]ZZ^]XZZZZ_ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ"
+b7p,rgb,msb,XY,prime.. text: "jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj*"
+b7p,bgr,lsb,XY,prime.. b7p,bgr,msb,XY,prime.. text: "mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm]]]]]"
+b8,r,lsb,XY,prime   .. b8,r,msb,XY,prime   .. text: ["U" repeated 61 times]
+b8,g,lsb,XY,prime   .. b8,g,msb,XY,prime   .. text: ["C" repeated 41 times]
+b8,b,lsb,XY,prime   .. b8,b,msb,XY,prime   .. text: ["[" repeated 61 times]
+b8,rgb,lsb,XY,prime .. b8,rgb,msb,XY,prime .. b8,bgr,lsb,XY,prime .. b8,bgr,msb,XY,prime .. b1,r,lsb,YX         .. b1,r,msb,YX         .. text: "<??????????????????????????????????????????"
+b1,g,lsb,YX         .. b1,g,msb,YX         .. text: "100000000000000000000000000000000000000000000000000&"
+b1,b,lsb,YX         .. b1,b,msb,YX         .. text: "8??????????????????????????????????????????"
+b1,rgb,lsb,YX       .. b1,rgb,msb,YX       .. file: SVr3 curses screen image, little-endian
+b1,bgr,lsb,YX       .. b1,bgr,msb,YX       .. b2,r,lsb,YX         .. text: ["U" repeated 102 times]
+b2,r,msb,YX         .. b2,g,lsb,YX         .. b2,g,msb,YX         .. text: ["U" repeated 102 times]
+b2,b,lsb,YX         .. b2,b,msb,YX         .. b2,rgb,lsb,YX       .. text: "3Q5(x6~\rx["
+b2,rgb,msb,YX       .. b2,bgr,lsb,YX       .. b2,bgr,msb,YX       .. b3,r,lsb,YX         .. b3,r,msb,YX         .. b3,g,lsb,YX         .. text: "i\"RI\"RI\"RI\"RI"
+b3,g,msb,YX         .. b3,b,lsb,YX         .. b3,b,msb,YX         .. b3,rgb,lsb,YX       .. b3,rgb,msb,YX       .. b3,bgr,lsb,YX       .. b3,bgr,msb,YX       .. b3p,r,lsb,YX        .. text: "( %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%"
+b3p,r,msb,YX        .. b3p,g,lsb,YX        .. text: "%%%%%%*JOo"
+b3p,g,msb,YX        .. text: ["R" repeated 136 times]
+b3p,b,lsb,YX        .. b3p,b,msb,YX        .. b3p,rgb,lsb,YX      .. text: "++HH++-llll"
+b3p,rgb,msb,YX      .. file: OpenPGP Public Key
+b3p,bgr,lsb,YX      .. text: "000555[[[\\\\@@eA#d"
+b3p,bgr,msb,YX      .. text: ["#" repeated 17 times]
+b4,r,lsb,YX         .. b4,r,msb,YX         .. file: OpenPGP Secret Key
+b4,g,lsb,YX         .. b4,g,msb,YX         .. text: ["U" repeated 196 times]
+b4,b,lsb,YX         .. text: "CDDDEUVVw"
+b4,b,msb,YX         .. text: ["w" repeated 10 times]
+b4,rgb,lsb,YX       .. b4,rgb,msb,YX       .. b4,bgr,lsb,YX       .. b4,bgr,msb,YX       .. b5,r,lsb,YX         .. b5,r,msb,YX         .. b5,g,lsb,YX         .. b5,g,msb,YX         .. b5,b,lsb,YX         .. b5,b,msb,YX         .. b5,rgb,lsb,YX       .. b5,rgb,msb,YX       .. b5,bgr,lsb,YX       .. b5,bgr,msb,YX       .. b5p,r,lsb,YX        .. text: ".OG>8@@@@@@@@I@IRIK[\\dmo"
+b5p,r,msb,YX        .. b5p,g,lsb,YX        .. text: "%$.78AR\\demmnvub"
+b5p,g,msb,YX        .. text: ["K" repeated 196 times]
+b5p,b,lsb,YX        .. text: "\n,/AQ[cgh"
+b5p,b,msb,YX        .. text: ["n" repeated 10 times]
+b5p,rgb,lsb,YX      .. text: "%.1O:A:818AAAAAAAAAAAAAAAAAIIAAJJRRJJK[[[[dddmmm~~~"
+b5p,rgb,msb,YX      .. text: ["R" repeated 136 times]
+b5p,bgr,lsb,YX      .. text: "(\"+=FOWI[\\d]fyo"
+b5p,bgr,msb,YX      .. text: ["^" repeated 136 times]
+b6,r,lsb,YX         .. b6,r,msb,YX         .. b6,g,lsb,YX         .. b6,g,msb,YX         .. b6,b,lsb,YX         .. b6,b,msb,YX         .. b6,rgb,lsb,YX       .. b6,rgb,msb,YX       .. b6,bgr,lsb,YX       .. b6,bgr,msb,YX       .. b6p,r,lsb,YX        .. text: "        % %*%'/,057?@@ELTZ\\`fhpqzy"
+b6p,r,msb,YX        .. file: OpenPGP Secret Key
+b6p,g,lsb,YX        .. text: "\"-;=LQY^faaeeeeeeeeeejjjoolpuvz"
+b6p,g,msb,YX        .. text: ["V" repeated 196 times]
+b6p,b,lsb,YX        .. b6p,b,msb,YX        .. text: ["]" repeated 10 times]
+b6p,rgb,lsb,YX      .. text: "!!!!!!!!!!!!!!!!!%%!!&&**&&'////000555>>>CC@@EDLQUQZZ\\a``ejjssppuzz{"
+b6p,rgb,msb,YX      .. text: ["d" repeated 136 times]
+b6p,bgr,lsb,YX      .. b6p,bgr,msb,YX      .. text: ["}" repeated 136 times]
+b7,r,lsb,YX         .. b7,r,msb,YX         .. b7,g,lsb,YX         .. b7,g,msb,YX         .. b7,b,lsb,YX         .. b7,b,msb,YX         .. b7,rgb,lsb,YX       .. b7,rgb,msb,YX       .. b7,bgr,lsb,YX       .. b7,bgr,msb,YX       .. b7p,r,lsb,YX        .. text: "UX\\aimpv"
+b7p,r,msb,YX        .. text: "qq\t\t\t\t\t\t\t\t"
+b7p,g,lsb,YX        .. b7p,g,msb,YX        .. text: ["-" repeated 196 times]
+b7p,b,lsb,YX        .. b7p,b,msb,YX        .. text: [";" repeated 10 times]
+b7p,rgb,lsb,YX      .. text: "TSXX\\dabijlnquvy"
+b7p,rgb,msb,YX      .. text: ["I" repeated 136 times]
+b7p,bgr,lsb,YX      .. b7p,bgr,msb,YX      .. text: ["{" repeated 136 times]
+b8,r,lsb,YX         .. b8,r,msb,YX         .. b8,g,lsb,YX         .. b8,g,msb,YX         .. text: ["[" repeated 136 times]
+b8,b,lsb,YX         .. b8,b,msb,YX         .. file: OpenPGP Public Key
+b8,rgb,lsb,YX       .. b8,rgb,msb,YX       .. text: "5C[uC;M#"
+b8,bgr,lsb,YX       .. b8,bgr,msb,YX       .. file: OpenPGP Public Key
+b1,r,lsb,YX,prime   .. file: PDP-11 overlaid separate executable
+b1,r,msb,YX,prime   .. file: OpenPGP Public Key
+b1,g,lsb,YX,prime   .. b1,g,msb,YX,prime   .. b1,b,lsb,YX,prime   .. b1,b,msb,YX,prime   .. b1,rgb,lsb,YX,prime .. b1,rgb,msb,YX,prime .. b1,bgr,lsb,YX,prime .. b1,bgr,msb,YX,prime .. b2,r,lsb,YX,prime   .. text: "EUUUUUUUUUUUUUUUUT"
+b2,r,msb,YX,prime   .. text: "[UUUUUUUUUUUUUUU"
+b2,g,lsb,YX,prime   .. text: "UUUUUUUUUUUUUUViVi"
+b2,g,msb,YX,prime   .. text: "YUUUUUUUUUUUUUUUU"
+b2,b,lsb,YX,prime   .. b2,b,msb,YX,prime   .. text: "5TUUUUUUUUUUUUUuHU"
+b2,rgb,lsb,YX,prime .. b2,rgb,msb,YX,prime .. b2,bgr,lsb,YX,prime .. b2,bgr,msb,YX,prime .. b3,r,lsb,YX,prime   .. b3,r,msb,YX,prime   .. b3,g,lsb,YX,prime   .. b3,g,msb,YX,prime   .. text: "2$IRvwjJ"
+b3,b,lsb,YX,prime   .. b3,b,msb,YX,prime   .. b3,rgb,lsb,YX,prime .. b3,rgb,msb,YX,prime .. b3,bgr,lsb,YX,prime .. b3,bgr,msb,YX,prime .. b3p,r,lsb,YX,prime  .. text: ["%" repeated 23 times]
+b3p,r,msb,YX,prime  .. file: DRAGEN ORA file, NB reads: 15834841947273090751, NB bases: 12166401455564958426. File contains interleaved paired reads
+b3p,g,lsb,YX,prime  .. text: "JJJJJJJJJJJJJJJJJJJJJJJoJ,"
+b3p,g,msb,YX,prime  .. text: ["R" repeated 23 times]
+b3p,b,lsb,YX,prime  .. b3p,b,msb,YX,prime  .. text: "@`;X[[[[[[[[[[[[[[[[[[s)["
+b3p,rgb,lsb,YX,prime.. text: ["+" repeated 69 times]
+b3p,rgb,msb,YX,prime.. text: "))`````````````````````````````````````````````````````````"
+b3p,bgr,lsb,YX,prime.. b3p,bgr,msb,YX,prime.. text: "((#########################################################f"
+b4,r,lsb,YX,prime   .. text: "fffffffffffffffffffffffffffffffa"
+b4,r,msb,YX,prime   .. text: ["f" repeated 31 times]
+b4,g,lsb,YX,prime   .. text: "fffffffffffffffffffffffffffffffd"
+b4,g,msb,YX,prime   .. text: ["U" repeated 34 times]
+b4,b,lsb,YX,prime   .. text: "fffffhffffffffffffffffffffffffo[Vfffffffffffffffffffffffffffff"
+b4,b,msb,YX,prime   .. text: "qwwwwwwwwwwwwwwwwwwwwwwwwwwwwl"
+b4,rgb,lsb,YX,prime .. b4,rgb,msb,YX,prime .. b4,bgr,lsb,YX,prime .. b4,bgr,msb,YX,prime .. b5,r,lsb,YX,prime   .. b5,r,msb,YX,prime   .. file: OpenPGP Public Key
+b5,g,lsb,YX,prime   .. b5,g,msb,YX,prime   .. b5,b,lsb,YX,prime   .. b5,b,msb,YX,prime   .. b5,rgb,lsb,YX,prime .. b5,rgb,msb,YX,prime .. b5,bgr,lsb,YX,prime .. b5,bgr,msb,YX,prime .. b5p,r,lsb,YX,prime  .. text: ",IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIH"
+b5p,r,msb,YX,prime  .. text: ["m" repeated 31 times]
+b5p,g,lsb,YX,prime  .. b5p,g,msb,YX,prime  .. text: ["K" repeated 34 times]
+b5p,b,lsb,YX,prime  .. text: ["v" repeated 28 times]
+b5p,b,msb,YX,prime  .. text: "cnnnnnnnnnnnnnnnnnnnnnnnnnnnnx"
+b5p,rgb,lsb,YX,prime.. text: "11AAAAAJ[[m~"
+b5p,rgb,msb,YX,prime.. text: ["R" repeated 69 times]
+b5p,bgr,lsb,YX,prime.. text: "\"=I\\yqqqqqqz"
+b5p,bgr,msb,YX,prime.. text: ["^" repeated 69 times]
+b6,r,lsb,YX,prime   .. b6,r,msb,YX,prime   .. file: Clarion Developer (v2 and above) memo data
+b6,g,lsb,YX,prime   .. b6,g,msb,YX,prime   .. b6,b,lsb,YX,prime   .. b6,b,msb,YX,prime   .. b6,rgb,lsb,YX,prime .. b6,rgb,msb,YX,prime .. b6,bgr,lsb,YX,prime .. b6,bgr,msb,YX,prime .. b6p,r,lsb,YX,prime  .. text: "  !/7@Zy"
+b6p,r,msb,YX,prime  .. text: ["[" repeated 31 times]
+b6p,g,lsb,YX,prime  .. text: ")Deeefov}"
+b6p,g,msb,YX,prime  .. text: ["V" repeated 34 times]
+b6p,b,lsb,YX,prime  .. b6p,b,msb,YX,prime  .. text: "S;G]]]]]]]]]]]]]]]]]]]]]]]]]]]]q"
+b6p,rgb,lsb,YX,prime.. text: "!!!!!&//5>CQZjz"
+b6p,rgb,msb,YX,prime.. text: ["d" repeated 69 times]
+b6p,bgr,lsb,YX,prime.. b6p,bgr,msb,YX,prime.. text: ["}" repeated 69 times]
+b7,r,lsb,YX,prime   .. b7,r,msb,YX,prime   .. b7,g,lsb,YX,prime   .. b7,g,msb,YX,prime   .. b7,b,lsb,YX,prime   .. b7,b,msb,YX,prime   .. b7,rgb,lsb,YX,prime .. file: mumps avl global with 68 byte name
+b7,rgb,msb,YX,prime .. file: OpenPGP Public Key
+b7,bgr,lsb,YX,prime .. b7,bgr,msb,YX,prime .. b7p,r,lsb,YX,prime  .. b7p,r,msb,YX,prime  .. text: ["\t" repeated 28 times]
+b7p,g,lsb,YX,prime  .. b7p,g,msb,YX,prime  .. text: ["-" repeated 34 times]
+b7p,b,lsb,YX,prime  .. b7p,b,msb,YX,prime  .. text: ";;;;;;;;;;;;;;;;;;;;;;;;;;;;c"
+b7p,rgb,lsb,YX,prime.. b7p,rgb,msb,YX,prime.. text: ["I" repeated 69 times]
+b7p,bgr,lsb,YX,prime.. b7p,bgr,msb,YX,prime.. text: ["{" repeated 69 times]
+b8,r,lsb,YX,prime   .. b8,r,msb,YX,prime   .. b8,g,lsb,YX,prime   .. b8,g,msb,YX,prime   .. text: ["[" repeated 69 times]
+b8,b,lsb,YX,prime   .. b8,b,msb,YX,prime   .. text: ["w" repeated 57 times]
+b8,rgb,lsb,YX,prime .. b8,rgb,msb,YX,prime .. b8,bgr,lsb,YX,prime .. b8,bgr,msb,YX,prime .. b1,r,lsb,Xy         .. b1,r,msb,Xy         .. b1,g,lsb,Xy         .. b1,g,msb,Xy         .. b1,b,lsb,Xy         .. b1,b,msb,Xy         .. b1,rgb,lsb,Xy       .. b1,rgb,msb,Xy       .. b1,bgr,lsb,Xy       .. b1,bgr,msb,Xy       .. b2,r,lsb,Xy         .. b2,r,msb,Xy         .. text: "TUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU"
+b2,g,lsb,Xy         .. file: VISX image file
+b2,g,msb,Xy         .. text: "fUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUZ"
+b2,b,lsb,Xy         .. b2,b,msb,Xy         .. text: "TUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU"
+b2,rgb,lsb,Xy       .. b2,rgb,msb,Xy       .. b2,bgr,lsb,Xy       .. b2,bgr,msb,Xy       .. b3,r,lsb,Xy         .. b3,r,msb,Xy         .. b3,g,lsb,Xy         .. b3,g,msb,Xy         .. b3,b,lsb,Xy         .. b3,b,msb,Xy         .. b3,rgb,lsb,Xy       .. b3,rgb,msb,Xy       .. b3,bgr,lsb,Xy       .. b3,bgr,msb,Xy       .. b3p,r,lsb,Xy        .. b3p,r,msb,Xy        .. text: "X[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[["
+b3p,g,lsb,Xy        .. text: "%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%&E9"
+b3p,g,msb,Xy        .. text: ["[" repeated 115 times]
+b3p,b,lsb,Xy        .. b3p,b,msb,Xy        .. text: "X[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[["
+b3p,rgb,lsb,Xy      .. b3p,rgb,msb,Xy      .. b3p,bgr,lsb,Xy      .. b3p,bgr,msb,Xy      .. b4,r,lsb,Xy         .. text: ["f" repeated 45 times]
+b4,r,msb,Xy         .. text: "afffffffffffffffffffffffffffffffffffffffffffff"
+b4,g,lsb,Xy         .. file: OpenPGP Public Key
+b4,g,msb,Xy         .. file: OpenPGP Public Key
+b4,b,lsb,Xy         .. text: ["f" repeated 45 times]
+b4,b,msb,Xy         .. text: "`fffffffffffffffffffffffffffffffffffffffffffff"
+b4,rgb,lsb,Xy       .. b4,rgb,msb,Xy       .. b4,bgr,lsb,Xy       .. b4,bgr,msb,Xy       .. b5,r,lsb,Xy         .. b5,r,msb,Xy         .. b5,g,lsb,Xy         .. b5,g,msb,Xy         .. b5,b,lsb,Xy         .. b5,b,msb,Xy         .. b5,rgb,lsb,Xy       .. b5,rgb,msb,Xy       .. b5,bgr,lsb,Xy       .. b5,bgr,msb,Xy       .. b5p,r,lsb,Xy        .. text: "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@IAF"
+b5p,r,msb,Xy        .. text: "bmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm"
+b5p,g,lsb,Xy        .. file: AVR firmware, reset at 0x09c9
+b5p,g,msb,Xy        .. text: "summmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm"
+b5p,b,lsb,Xy        .. b5p,b,msb,Xy        .. text: "ammmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm"
+b5p,rgb,lsb,Xy      .. b5p,rgb,msb,Xy      .. b5p,bgr,lsb,Xy      .. b5p,bgr,msb,Xy      .. b6,r,lsb,Xy         .. b6,r,msb,Xy         .. b6,g,lsb,Xy         .. b6,g,msb,Xy         .. b6,b,lsb,Xy         .. b6,b,msb,Xy         .. b6,rgb,lsb,Xy       .. b6,rgb,msb,Xy       .. b6,bgr,lsb,Xy       .. b6,bgr,msb,Xy       .. b6p,r,lsb,Xy        .. text: "                                                                                                                                                                                                                %!\""
+b6p,r,msb,Xy        .. text: "D[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[["
+b6p,g,lsb,Xy        .. text: "eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeejef"
+b6p,g,msb,Xy        .. text: "fk[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[["
+b6p,b,lsb,Xy        .. file: AVR firmware, reset at 0x00c0
+b6p,b,msb,Xy        .. text: "C[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[["
+b6p,rgb,lsb,Xy      .. b6p,rgb,msb,Xy      .. b6p,bgr,lsb,Xy      .. b6p,bgr,msb,Xy      .. b7,r,lsb,Xy         .. b7,r,msb,Xy         .. b7,g,lsb,Xy         .. b7,g,msb,Xy         .. b7,b,lsb,Xy         .. b7,b,msb,Xy         .. b7,rgb,lsb,Xy       .. b7,rgb,msb,Xy       .. b7,bgr,lsb,Xy       .. b7,bgr,msb,Xy       .. b7p,r,lsb,Xy        .. b7p,r,msb,Xy        .. text: ["\t" repeated 208 times]
+b7p,g,lsb,Xy        .. b7p,g,msb,Xy        .. file: AVR firmware, reset at 0x0dcd
+b7p,b,lsb,Xy        .. b7p,b,msb,Xy        .. text: ["7" repeated 45 times]
+b7p,rgb,lsb,Xy      .. b7p,rgb,msb,Xy      .. b7p,bgr,lsb,Xy      .. b7p,bgr,msb,Xy      .. b8,r,lsb,Xy         .. b8,r,msb,Xy         .. b8,g,lsb,Xy         .. b8,g,msb,Xy         .. b8,b,lsb,Xy         .. b8,b,msb,Xy         .. b8,rgb,lsb,Xy       .. b8,rgb,msb,Xy       .. b8,bgr,lsb,Xy       .. b8,bgr,msb,Xy       .. b1,r,lsb,Xy,prime   .. b1,r,msb,Xy,prime   .. file: Windows boot log, header size 0, 0 valid bytes
+b1,g,lsb,Xy,prime   .. b1,g,msb,Xy,prime   .. b1,b,lsb,Xy,prime   .. b1,b,msb,Xy,prime   .. file: Windows boot log, header size 0, 0 valid bytes
+b1,rgb,lsb,Xy,prime .. b1,rgb,msb,Xy,prime .. b1,bgr,lsb,Xy,prime .. b1,bgr,msb,Xy,prime .. b2,r,lsb,Xy,prime   .. b2,r,msb,Xy,prime   .. text: "VUUUUUUUUUUUUUUUTUUUUUUUUUUUUU"
+b2,g,lsb,Xy,prime   .. file: VISX image file
+b2,g,msb,Xy,prime   .. text: "VUUUUUUUUUUUUUUUVUUUUUUUUUUUUUUUUUUUUUUUUUUUUYUUUUUUUUUUUUZUUUUUUUUUUUUUUUUUUUUUUUUUUVUUUUUUUUUUUYUUUUUUUUUUUU"
+b2,b,lsb,Xy,prime   .. b2,b,msb,Xy,prime   .. text: "WUUUUUUUUUUUUUUUUUUUUUUUUUUUUU"
+b2,rgb,lsb,Xy,prime .. b2,rgb,msb,Xy,prime .. text: " zUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUXUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU"
+b2,bgr,lsb,Xy,prime .. b2,bgr,msb,Xy,prime .. text: " kUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUIUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU"
+b3,r,lsb,Xy,prime   .. b3,r,msb,Xy,prime   .. b3,g,lsb,Xy,prime   .. b3,g,msb,Xy,prime   .. b3,b,lsb,Xy,prime   .. b3,b,msb,Xy,prime   .. b3,rgb,lsb,Xy,prime .. b3,rgb,msb,Xy,prime .. b3,bgr,lsb,Xy,prime .. b3,bgr,msb,Xy,prime .. b3p,r,lsb,Xy,prime  .. b3p,r,msb,Xy,prime  .. text: "[[[[[[[[[[[[[[[[[[[[[X[[[[[[[[[[[[[[[[[["
+b3p,g,lsb,Xy,prime  .. text: ["%" repeated 27 times]
+b3p,g,msb,Xy,prime  .. text: "[[[[[[[[[[[[[[[[[[[[[\\[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[\\[[[[[[[[[[[[[[[[d[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[\\[[[[[[[[[[[[[[[b[[[[[[[[[[[[[[[[["
+b3p,b,lsb,Xy,prime  .. b3p,b,msb,Xy,prime  .. text: ["[" repeated 40 times]
+b3p,rgb,lsb,Xy,prime.. b3p,rgb,msb,Xy,prime.. text: [" " repeated 80 times]
+b3p,bgr,lsb,Xy,prime.. b3p,bgr,msb,Xy,prime.. text: [" " repeated 80 times]
+b4,r,lsb,Xy,prime   .. text: ["f" repeated 31 times]
+b4,r,msb,Xy,prime   .. text: "ifffffffffffffffffffffffffffffffaffffffffffffffffffffffffffff"
+b4,g,lsb,Xy,prime   .. file: OpenPGP Public Key
+b4,g,msb,Xy,prime   .. file: OpenPGP Public Key
+b4,b,lsb,Xy,prime   .. text: ["f" repeated 31 times]
+b4,b,msb,Xy,prime   .. text: "offfffffffffffffffffffffffffffffgffffffffffffffffffffffffffff"
+b4,rgb,lsb,Xy,prime .. text: ["f" repeated 94 times]
+b4,rgb,msb,Xy,prime .. text: "offffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+b4,bgr,lsb,Xy,prime .. text: ["f" repeated 94 times]
+b4,bgr,msb,Xy,prime .. file: Targa image data (400-36889) - RLE 400 x 36889 x 1 +36889 +6401 - 9-bit alpha - right "\220\001\031\220\001\031\220\001\031\220\001\031\220\001\031\220\001\031\220\001\031\220\001\031\220\001\031\220\001\031\220\001\031\220\001\031\220\001\031\220\001\031\220\001\031\220\001\031\220\001\031\220\001\031\220\001\031\220\001\031\220\001\031\220\001\031\220\001\031\220\001\031\220\001\031\220\001\031\220\001\031\220\001\031\220\001\031\220\001\031\220\001\031\220\001\031\220\001\031\220\001\031\237ifffffffffffffffffffffff"
+b5,r,lsb,Xy,prime   .. b5,r,msb,Xy,prime   .. b5,g,lsb,Xy,prime   .. b5,g,msb,Xy,prime   .. b5,b,lsb,Xy,prime   .. b5,b,msb,Xy,prime   .. b5,rgb,lsb,Xy,prime .. b5,rgb,msb,Xy,prime .. b5,bgr,lsb,Xy,prime .. b5,bgr,msb,Xy,prime .. b5p,r,lsb,Xy,prime  .. text: "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@N"
+b5p,r,msb,Xy,prime  .. text: "rmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmbmmmmmmmmmmmmmmmmmmmmmmmmmmmm"
+b5p,g,lsb,Xy,prime  .. file: AVR firmware, reset at 0x09c9
+b5p,g,msb,Xy,prime  .. text: "smmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmsmmmmmmmmmmmmmmmmmmmmmmmmmmmmMmmmmmmmmmmmmmmmmmmmmmmmmmmmm"
+b5p,b,lsb,Xy,prime  .. b5p,b,msb,Xy,prime  .. text: "~mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmnmmmmmmmmmmmmmmmmmmmmmmmmmmmm"
+b5p,rgb,lsb,Xy,prime.. text: "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAI"
+b5p,rgb,msb,Xy,prime.. text: ["m" repeated 63 times]
+b5p,bgr,lsb,Xy,prime.. b5p,bgr,msb,Xy,prime.. text: ["m" repeated 63 times]
+b6,r,lsb,Xy,prime   .. b6,r,msb,Xy,prime   .. b6,g,lsb,Xy,prime   .. b6,g,msb,Xy,prime   .. b6,b,lsb,Xy,prime   .. b6,b,msb,Xy,prime   .. b6,rgb,lsb,Xy,prime .. b6,rgb,msb,Xy,prime .. b6,bgr,lsb,Xy,prime .. b6,bgr,msb,Xy,prime .. b6p,r,lsb,Xy,prime  .. text: "                                        &"
+b6p,r,msb,Xy,prime  .. text: "d[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[D[[[[[[[[[[[[[[[[[[[[[[[[[[[["
+b6p,g,lsb,Xy,prime  .. text: "eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeef"
+b6p,g,msb,Xy,prime  .. text: "f[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[f[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[["
+b6p,b,lsb,Xy,prime  .. file: AVR firmware, reset at 0x00c0
+b6p,b,msb,Xy,prime  .. text: "}[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[][[[[[[[[[[[[[[[[[[[[[[[[[[[["
+b6p,rgb,lsb,Xy,prime.. text: "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!%"
+b6p,rgb,msb,Xy,prime.. text: ["[" repeated 63 times]
+b6p,bgr,lsb,Xy,prime.. file: AVR firmware, reset at 0x01c1
+b6p,bgr,msb,Xy,prime.. text: ["[" repeated 63 times]
+b7,r,lsb,Xy,prime   .. b7,r,msb,Xy,prime   .. b7,g,lsb,Xy,prime   .. b7,g,msb,Xy,prime   .. b7,b,lsb,Xy,prime   .. b7,b,msb,Xy,prime   .. b7,rgb,lsb,Xy,prime .. b7,rgb,msb,Xy,prime .. b7,bgr,lsb,Xy,prime .. b7,bgr,msb,Xy,prime .. b7p,r,lsb,Xy,prime  .. b7p,r,msb,Xy,prime  .. text: "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tI7777777777777777777777777777777\t7777777777777777777777777777"
+b7p,g,lsb,Xy,prime  .. b7p,g,msb,Xy,prime  .. file: AVR firmware, reset at 0x0dcd
+b7p,b,lsb,Xy,prime  .. b7p,b,msb,Xy,prime  .. text: "{7777777777777777777777777777777;7777777777777777777777777777"
+b7p,rgb,lsb,Xy,prime.. b7p,rgb,msb,Xy,prime.. text: ["7" repeated 63 times]
+b7p,bgr,lsb,Xy,prime.. b7p,bgr,msb,Xy,prime.. text: ["7" repeated 63 times]
+b8,r,lsb,Xy,prime   .. file: AVR firmware, reset at 0x08c8
+b8,r,msb,Xy,prime   .. text: ["o" repeated 63 times]
+b8,g,lsb,Xy,prime   .. b8,g,msb,Xy,prime   .. file: OpenPGP Public Key
+b8,b,lsb,Xy,prime   .. b8,b,msb,Xy,prime   .. text: "ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooowoooooooooooooooooooooooooooooooooooooooooooooooooooooooooo"
+b8,rgb,lsb,Xy,prime .. b8,rgb,msb,Xy,prime .. text: ["o" repeated 13 times]
+b8,bgr,lsb,Xy,prime .. b8,bgr,msb,Xy,prime .. text: ["o" repeated 13 times]
+b1,r,lsb,yX         .. text: "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~yN"
+b1,r,msb,yX         .. text: " q~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+b1,g,lsb,yX         .. b1,g,msb,yX         .. text: "b``````````````````````````````````````````````````"
+b1,b,lsb,yX         .. text: "N~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~q"
+b1,b,msb,yX         .. text: "r~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+b1,rgb,lsb,yX       .. b1,rgb,msb,yX       .. b1,bgr,lsb,yX       .. b1,bgr,msb,yX       .. b2,r,lsb,yX         .. text: "UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUA$"
+b2,r,msb,yX         .. b2,g,lsb,yX         .. b2,g,msb,yX         .. text: "VUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUY"
+b2,b,lsb,yX         .. b2,b,msb,yX         .. b2,rgb,lsb,yX       .. b2,rgb,msb,yX       .. b2,bgr,lsb,yX       .. b2,bgr,msb,yX       .. b3,r,lsb,yX         .. b3,r,msb,yX         .. b3,g,lsb,yX         .. text: "$JI$JI$JI$JI$JI$JI$JI$JI$JI$JI$JI$JI$JI$JI$JI$JI$JI$JI$JI"
+b3,g,msb,yX         .. file: OpenPGP Secret Key
+b3,b,lsb,yX         .. b3,b,msb,yX         .. b3,rgb,lsb,yX       .. b3,rgb,msb,yX       .. b3,bgr,lsb,yX       .. b3,bgr,msb,yX       .. b3p,r,lsb,yX        .. text: "%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% \"0"
+b3p,r,msb,yX        .. b3p,g,lsb,yX        .. text: "*JJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJFN"
+b3p,g,msb,yX        .. text: "TRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRbri["
+b3p,b,lsb,yX        .. b3p,b,msb,yX        .. b3p,rgb,lsb,yX      .. b3p,rgb,msb,yX      .. b3p,bgr,lsb,yX      .. b3p,bgr,msb,yX      .. b4,r,lsb,yX         .. b4,r,msb,yX         .. b4,g,lsb,yX         .. file: OpenPGP Public Key
+b4,g,msb,yX         .. text: "YUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU"
+b4,b,lsb,yX         .. text: "vVUUDDDCC"
+b4,b,msb,yX         .. text: ["w" repeated 9 times]
+b4,rgb,lsb,yX       .. b4,rgb,msb,yX       .. b4,bgr,lsb,yX       .. b4,bgr,msb,yX       .. b5,r,lsb,yX         .. b5,r,msb,yX         .. b5,g,lsb,yX         .. b5,g,msb,yX         .. b5,b,lsb,yX         .. b5,b,msb,yX         .. b5,rgb,lsb,yX       .. b5,rgb,msb,yX       .. b5,bgr,lsb,yX       .. b5,bgr,msb,yX       .. b5p,r,lsb,yX        .. text: "AIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIHAB"
+b5p,r,msb,yX        .. b5p,g,lsb,yX        .. text: "evvmmmddZQ@?6,%\""
+b5p,g,msb,yX        .. text: "SKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK"
+b5p,b,lsb,yX        .. text: "~w~vvvvvvvvvp"
+b5p,b,msb,yX        .. text: "~nnnnnnnnn"
+b5p,rgb,lsb,yX      .. b5p,rgb,msb,yX      .. b5p,bgr,lsb,yX      .. b5p,bgr,msb,yX      .. b6,r,lsb,yX         .. b6,r,msb,yX         .. b6,g,lsb,yX         .. b6,g,msb,yX         .. b6,b,lsb,yX         .. b6,b,msb,yX         .. b6,rgb,lsb,yX       .. b6,rgb,msb,yX       .. b6,bgr,lsb,yX       .. b6,bgr,msb,yX       .. b6p,r,lsb,yX        .. text: "!%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%$!\""
+b6p,r,msb,yX        .. b6p,g,lsb,yX        .. text: "fjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjijn"
+b6p,g,msb,yX        .. text: "fVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV"
+b6p,b,lsb,yX        .. b6p,b,msb,yX        .. text: "}]]]]]]]]]"
+b6p,rgb,lsb,yX      .. b6p,rgb,msb,yX      .. b6p,bgr,lsb,yX      .. b6p,bgr,msb,yX      .. b7,r,lsb,yX         .. b7,r,msb,yX         .. b7,g,lsb,yX         .. b7,g,msb,yX         .. b7,b,lsb,yX         .. b7,b,msb,yX         .. b7,rgb,lsb,yX       .. b7,rgb,msb,yX       .. b7,bgr,lsb,yX       .. b7,bgr,msb,yX       .. b7p,r,lsb,yX        .. b7p,r,msb,yX        .. file: AVR firmware, reset at 0x0989
+b7p,g,lsb,yX        .. b7p,g,msb,yX        .. text: "M-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------"
+b7p,b,lsb,yX        .. b7p,b,msb,yX        .. text: "{;;;;;;;;;;"
+b7p,rgb,lsb,yX      .. b7p,rgb,msb,yX      .. b7p,bgr,lsb,yX      .. b7p,bgr,msb,yX      .. b8,r,lsb,yX         .. b8,r,msb,yX         .. b8,g,lsb,yX         .. b8,g,msb,yX         .. b8,b,lsb,yX         .. b8,b,msb,yX         .. b8,rgb,lsb,yX       .. b8,rgb,msb,yX       .. b8,bgr,lsb,yX       .. b8,bgr,msb,yX       .. b1,r,lsb,yX,prime   .. b1,r,msb,yX,prime   .. b1,g,lsb,yX,prime   .. b1,g,msb,yX,prime   .. b1,b,lsb,yX,prime   .. b1,b,msb,yX,prime   .. b1,rgb,lsb,yX,prime .. b1,rgb,msb,yX,prime .. b1,bgr,lsb,yX,prime .. b1,bgr,msb,yX,prime .. b2,r,lsb,yX,prime   .. file: VISX image file
+b2,r,msb,yX,prime   .. text: ["U" repeated 16 times]
+b2,g,lsb,yX,prime   .. text: "UUUUUUUUUUUUUSD%GUUUUUUUUUUUUUWey^"
+b2,g,msb,yX,prime   .. file: VISX image file
+b2,b,lsb,yX,prime   .. b2,b,msb,yX,prime   .. text: "UUUUUUUUUUUUUUsE"
+b2,rgb,lsb,yX,prime .. b2,rgb,msb,yX,prime .. b2,bgr,lsb,yX,prime .. b2,bgr,msb,yX,prime .. b3,r,lsb,yX,prime   .. b3,r,msb,yX,prime   .. b3,g,lsb,yX,prime   .. b3,g,msb,yX,prime   .. b3,b,lsb,yX,prime   .. b3,b,msb,yX,prime   .. b3,rgb,lsb,yX,prime .. b3,rgb,msb,yX,prime .. b3,bgr,lsb,yX,prime .. b3,bgr,msb,yX,prime .. b3p,r,lsb,yX,prime  .. text: "%%%%%%%%%%%%%%%%%%%%%%%%%%!"
+b3p,r,msb,yX,prime  .. text: "`[[[[[[[[[[[[[[[[[[[[[["
+b3p,g,lsb,yX,prime  .. text: "JJJJJJJJJJJJJJJJJJJJJJJJJJF"
+b3p,g,msb,yX,prime  .. text: "RRRRRRRRRRRRRRRRRRRRRRRRRRb"
+b3p,b,lsb,yX,prime  .. b3p,b,msb,yX,prime  .. text: "b[[[[[[[[[[[[[[[[[[3_K"
+b3p,rgb,lsb,yX,prime.. text: ["+" repeated 79 times]
+b3p,rgb,msb,yX,prime.. text: "t```````````````````````````````````````````````````````"
+b3p,bgr,lsb,yX,prime.. b3p,bgr,msb,yX,prime.. file: OpenPGP Secret Key
+b4,r,lsb,yX,prime   .. file: OpenPGP Public Key
+b4,r,msb,yX,prime   .. file: OpenPGP Public Key
+b4,g,lsb,yX,prime   .. text: "yffffffffffffffffffffffffffffffff"
+b4,g,msb,yX,prime   .. file: VISX image file
+b4,b,lsb,yX,prime   .. text: "ffffffffffffffffffffffffffffffff="
+b4,b,msb,yX,prime   .. text: ["w" repeated 28 times]
+b4,rgb,lsb,yX,prime .. file: OpenPGP Public Key
+b4,rgb,msb,yX,prime .. b4,bgr,lsb,yX,prime .. b4,bgr,msb,yX,prime .. b5,r,lsb,yX,prime   .. b5,r,msb,yX,prime   .. b5,g,lsb,yX,prime   .. b5,g,msb,yX,prime   .. b5,b,lsb,yX,prime   .. b5,b,msb,yX,prime   .. b5,rgb,lsb,yX,prime .. b5,rgb,msb,yX,prime .. b5,bgr,lsb,yX,prime .. b5,bgr,msb,yX,prime .. b5p,r,lsb,yX,prime  .. text: "IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIH,"
+b5p,r,msb,yX,prime  .. text: "lmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm"
+b5p,g,lsb,yX,prime  .. b5p,g,msb,yX,prime  .. text: ["K" repeated 39 times]
+b5p,b,lsb,yX,prime  .. file: RDI Acoustic Doppler Current Profiler (ADCP)
+b5p,b,msb,yX,prime  .. text: "onnnnnnnnnnnnnnnnnnnnnnnnnnn"
+b5p,rgb,lsb,yX,prime.. text: "JJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJA.%"
+b5p,rgb,msb,yX,prime.. text: ["R" repeated 79 times]
+b5p,bgr,lsb,yX,prime.. file: MGR bitmap, old format, 1-bit deep, 16-bit aligned
+b5p,bgr,msb,yX,prime.. text: ["^" repeated 79 times]
+b6,r,lsb,yX,prime   .. b6,r,msb,yX,prime   .. b6,g,lsb,yX,prime   .. b6,g,msb,yX,prime   .. file: OpenPGP Secret Key
+b6,b,lsb,yX,prime   .. b6,b,msb,yX,prime   .. b6,rgb,lsb,yX,prime .. b6,rgb,msb,yX,prime .. text: "VOZ=aviw&"
+b6,bgr,lsb,yX,prime .. b6,bgr,msb,yX,prime .. b6p,r,lsb,yX,prime  .. text: "%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%$"
+b6p,r,msb,yX,prime  .. text: "X[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[["
+b6p,g,lsb,yX,prime  .. text: "jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjji"
+b6p,g,msb,yX,prime  .. text: ["V" repeated 39 times]
+b6p,b,lsb,yX,prime  .. b6p,b,msb,yX,prime  .. text: "^]]]]]]]]]]]]]]]]]]]]]]]]]]]3{[K#"
+b6p,rgb,lsb,yX,prime.. text: "&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&!"
+b6p,rgb,msb,yX,prime.. text: ["d" repeated 79 times]
+b6p,bgr,lsb,yX,prime.. b6p,bgr,msb,yX,prime.. text: ["}" repeated 79 times]
+b7,r,lsb,yX,prime   .. b7,r,msb,yX,prime   .. b7,g,lsb,yX,prime   .. b7,g,msb,yX,prime   .. b7,b,lsb,yX,prime   .. b7,b,msb,yX,prime   .. b7,rgb,lsb,yX,prime .. b7,rgb,msb,yX,prime .. b7,bgr,lsb,yX,prime .. b7,bgr,msb,yX,prime .. b7p,r,lsb,yX,prime  .. b7p,r,msb,yX,prime  .. file: AVR firmware, reset at 0x09c9
+b7p,g,lsb,yX,prime  .. b7p,g,msb,yX,prime  .. text: ["-" repeated 39 times]
+b7p,b,lsb,yX,prime  .. b7p,b,msb,yX,prime  .. text: "=;;;;;;;;;;;;;;;;;;;;;;;;;;;gw7"
+b7p,rgb,lsb,yX,prime.. b7p,rgb,msb,yX,prime.. text: ["I" repeated 79 times]
+b7p,bgr,lsb,yX,prime.. b7p,bgr,msb,yX,prime.. text: ["{" repeated 79 times]
+b8,r,lsb,yX,prime   .. file: AVR firmware, reset at 0x09c9
+b8,r,msb,yX,prime   .. b8,g,lsb,yX,prime   .. b8,g,msb,yX,prime   .. text: ["[" repeated 79 times]
+b8,b,lsb,yX,prime   .. b8,b,msb,yX,prime   .. text: "{wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww"
+b8,rgb,lsb,yX,prime .. b8,rgb,msb,yX,prime .. b8,bgr,lsb,yX,prime .. b8,bgr,msb,yX,prime .. b1,r,lsb,xY         .. b1,r,msb,xY         .. b1,g,lsb,xY         .. b1,g,msb,xY         .. b1,b,lsb,xY         .. b1,b,msb,xY         .. b1,rgb,lsb,xY       .. b1,rgb,msb,xY       .. b1,bgr,lsb,xY       .. b1,bgr,msb,xY       .. b2,r,lsb,xY         .. b2,r,msb,xY         .. file: VISX image file
+b2,g,lsb,xY         .. b2,g,msb,xY         .. b2,b,lsb,xY         .. text: ["U" repeated 48 times]
+b2,b,msb,xY         .. file: VISX image file
+b2,rgb,lsb,xY       .. b2,rgb,msb,xY       .. b2,bgr,lsb,xY       .. b2,bgr,msb,xY       .. b3,r,lsb,xY         .. b3,r,msb,xY         .. b3,g,lsb,xY         .. b3,g,msb,xY         .. b3,b,lsb,xY         .. b3,b,msb,xY         .. b3,rgb,lsb,xY       .. b3,rgb,msb,xY       .. b3,bgr,lsb,xY       .. b3,bgr,msb,xY       .. b3p,r,lsb,xY        .. text: "JJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJ$"
+b3p,r,msb,xY        .. text: "RRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR$xRRRRRR"
+b3p,g,lsb,xY        .. b3p,g,msb,xY        .. b3p,b,lsb,xY        .. text: "JJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJ%`*JJJJJ"
+b3p,b,msb,xY        .. text: ["R" repeated 115 times]
+b3p,rgb,lsb,xY      .. b3p,rgb,msb,xY      .. b3p,bgr,lsb,xY      .. b3p,bgr,msb,xY      .. b4,r,lsb,xY         .. b4,r,msb,xY         .. file: VISX image file
+b4,g,lsb,xY         .. b4,g,msb,xY         .. b4,b,lsb,xY         .. b4,b,msb,xY         .. file: VISX image file
+b4,rgb,lsb,xY       .. b4,rgb,msb,xY       .. b4,bgr,lsb,xY       .. b4,bgr,msb,xY       .. b5,r,lsb,xY         .. text: ")JRPu!\nB"
+b5,r,msb,xY         .. b5,g,lsb,xY         .. b5,g,msb,xY         .. b5,b,lsb,xY         .. b5,b,msb,xY         .. b5,rgb,lsb,xY       .. b5,rgb,msb,xY       .. b5,bgr,lsb,xY       .. b5,bgr,msb,xY       .. b5p,r,lsb,xY        .. text: "RRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRQHGRRRRRRRRRQGPBCBQCRRRRRRRRPJ:ZWQPJ[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[["
+b5p,r,msb,xY        .. text: ["J" repeated 172 times]
+b5p,g,lsb,xY        .. b5p,g,msb,xY        .. b5p,b,lsb,xY        .. b5p,b,msb,xY        .. text: ["K" repeated 172 times]
+b5p,rgb,lsb,xY      .. b5p,rgb,msb,xY      .. b5p,bgr,lsb,xY      .. b5p,bgr,msb,xY      .. b6,r,lsb,xY         .. b6,r,msb,xY         .. b6,g,lsb,xY         .. b6,g,msb,xY         .. b6,b,lsb,xY         .. b6,b,msb,xY         .. file: OpenPGP Secret Key
+b6,rgb,lsb,xY       .. b6,rgb,msb,xY       .. b6,bgr,lsb,xY       .. b6,bgr,msb,xY       .. b6p,r,lsb,xY        .. b6p,r,msb,xY        .. file: VISX image file
+b6p,g,lsb,xY        .. b6p,g,msb,xY        .. b6p,b,lsb,xY        .. text: "jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjielqjjjjjjjjklkZofggjjjjjjjjgeajckjmoooooooooooooooooooooooooooooooooooooooooooooooo"
+b6p,b,msb,xY        .. text: ["V" repeated 172 times]
+b6p,rgb,lsb,xY      .. b6p,rgb,msb,xY      .. b6p,bgr,lsb,xY      .. b6p,bgr,msb,xY      .. b7,r,lsb,xY         .. b7,r,msb,xY         .. b7,g,lsb,xY         .. b7,g,msb,xY         .. b7,b,lsb,xY         .. b7,b,msb,xY         .. b7,rgb,lsb,xY       .. b7,rgb,msb,xY       .. b7,bgr,lsb,xY       .. b7,bgr,msb,xY       .. b7p,r,lsb,xY        .. text: "TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTURQTTTTTTTTTUQTPQPUQTTTTTTTTTRNVUUTRWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW"
+b7p,r,msb,xY        .. text: ["*" repeated 172 times]
+b7p,g,lsb,xY        .. file: RDI Acoustic Doppler Current Profiler (ADCP)
+b7p,g,msb,xY        .. b7p,b,lsb,xY        .. b7p,b,msb,xY        .. text: ["-" repeated 172 times]
+b7p,rgb,lsb,xY      .. b7p,rgb,msb,xY      .. b7p,bgr,lsb,xY      .. b7p,bgr,msb,xY      .. b8,r,lsb,xY         .. b8,r,msb,xY         .. b8,g,lsb,xY         .. b8,g,msb,xY         .. b8,b,lsb,xY         .. b8,b,msb,xY         .. b8,rgb,lsb,xY       .. b8,rgb,msb,xY       .. b8,bgr,lsb,xY       .. b8,bgr,msb,xY       .. b1,r,lsb,xY,prime   .. b1,r,msb,xY,prime   .. b1,g,lsb,xY,prime   .. b1,g,msb,xY,prime   .. b1,b,lsb,xY,prime   .. b1,b,msb,xY,prime   .. b1,rgb,lsb,xY,prime .. b1,rgb,msb,xY,prime .. b1,bgr,lsb,xY,prime .. b1,bgr,msb,xY,prime .. b2,r,lsb,xY,prime   .. text: "UUUUUUUUUUUYV"
+b2,r,msb,xY,prime   .. file: VISX image file
+b2,g,lsb,xY,prime   .. text: "qUUUUUUPm"
+b2,g,msb,xY,prime   .. text: "@UUUUUUUUUUUUU"
+b2,b,lsb,xY,prime   .. text: "UUUUUUUUUUUUuET"
+b2,b,msb,xY,prime   .. file: VISX image file
+b2,rgb,lsb,xY,prime .. b2,rgb,msb,xY,prime .. b2,bgr,lsb,xY,prime .. b2,bgr,msb,xY,prime .. b3,r,lsb,xY,prime   .. b3,r,msb,xY,prime   .. b3,g,lsb,xY,prime   .. b3,g,msb,xY,prime   .. b3,b,lsb,xY,prime   .. b3,b,msb,xY,prime   .. b3,rgb,lsb,xY,prime .. b3,rgb,msb,xY,prime .. b3,bgr,lsb,xY,prime .. b3,bgr,msb,xY,prime .. b3p,r,lsb,xY,prime  .. text: "JJJJJJJJJJJJJJJJJJJJJJH"
+b3p,r,msb,xY,prime  .. text: ["R" repeated 22 times]
+b3p,g,lsb,xY,prime  .. text: "JJJJJJJJJJJJJJJJJJNJJJJJJJJJJJJJJJJHooooooooooooooooJ"
+b3p,g,msb,xY,prime  .. text: "@RRRRRRRRRRRRRRRRRRrRRRRRRRRRRRRRRRR"
+b3p,b,lsb,xY,prime  .. text: "JJJJJJJJJJJJJJJJJJJJJJI\nNjoooooooooooooooooooo"
+b3p,b,msb,xY,prime  .. text: ["R" repeated 22 times]
+b3p,rgb,lsb,xY,prime.. text: ["^" repeated 68 times]
+b3p,rgb,msb,xY,prime.. file: MGR bitmap, old format, 1-bit deep, 16-bit aligned
+b3p,bgr,lsb,xY,prime.. text: "^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^<"
+b3p,bgr,msb,xY,prime.. file: MGR bitmap, old format, 1-bit deep, 16-bit aligned
+b4,r,lsb,xY,prime   .. text: "a\"R24D#\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\""
+b4,r,msb,xY,prime   .. file: VISX image file
+b4,g,lsb,xY,prime   .. text: "\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"#\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"$333333333333333333333333\"&"
+b4,g,msb,xY,prime   .. text: "@DDDDDDDDDDDDDDDDDDDDDDDDDDD"
+b4,b,lsb,xY,prime   .. b4,b,msb,xY,prime   .. file: VISX image file
+b4,rgb,lsb,xY,prime .. b4,rgb,msb,xY,prime .. b4,bgr,lsb,xY,prime .. b4,bgr,msb,xY,prime .. b5,r,lsb,xY,prime   .. b5,r,msb,xY,prime   .. b5,g,lsb,xY,prime   .. b5,g,msb,xY,prime   .. b5,b,lsb,xY,prime   .. b5,b,msb,xY,prime   .. b5,rgb,lsb,xY,prime .. b5,rgb,msb,xY,prime .. b5,bgr,lsb,xY,prime .. b5,bgr,msb,xY,prime .. b5p,r,lsb,xY,prime  .. text: "RRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRGRPSRG[[[[[[[[[[[[[[[[[[[[[[[[[[[[[KZ1Tdddddddddddddddddddddddcdvddemmmmmmmmmmmmmmmmmmmmmmmumn}mfvvvvvvvvvvvvvvvvvvvvvvvvu"
+b5p,r,msb,xY,prime  .. text: ["J" repeated 34 times]
+b5p,g,lsb,xY,prime  .. text: ["$" repeated 19 times]
+b5p,g,msb,xY,prime  .. text: "@HHHHHHHHHHHHHHHHHHHHHHHHHHH"
+b5p,b,lsb,xY,prime  .. text: ["\t" repeated 16 times]
+b5p,b,msb,xY,prime  .. text: ["K" repeated 34 times]
+b5p,rgb,lsb,xY,prime.. text: "WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWG>WWW@W^WW@?XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXYIXXW1IV````````````````````````````````````````````````Y``qr`````jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjrjjjjr"
+b5p,rgb,msb,xY,prime.. text: "VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVNVVVVN"
+b5p,bgr,lsb,xY,prime.. b5p,bgr,msb,xY,prime.. text: ["G" repeated 53 times]
+b6,r,lsb,xY,prime   .. b6,r,msb,xY,prime   .. file: VISX image file
+b6,g,lsb,xY,prime   .. b6,g,msb,xY,prime   .. b6,b,lsb,xY,prime   .. b6,b,msb,xY,prime   .. file: OpenPGP Secret Key
+b6,rgb,lsb,xY,prime .. b6,rgb,msb,xY,prime .. b6,bgr,lsb,xY,prime .. b6,bgr,msb,xY,prime .. b6p,r,lsb,xY,prime  .. b6p,r,msb,xY,prime  .. file: VISX image file
+b6p,g,lsb,xY,prime  .. text: ["\n" repeated 27 times]
+b6p,g,msb,xY,prime  .. text: "@PPPPPPPPPPPPPPPPPPPPPPPPPPP"
+b6p,b,lsb,xY,prime  .. text: "jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjdjkkjoooooooooooooooooooooooooooooosnleuuuuuuuuuuuuuuuuuuuuuuuwutuutpppppppppppppppppppppppppppshppppppppppppppppppppp"
+b6p,b,msb,xY,prime  .. text: "VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV&V"
+b6p,rgb,lsb,xY,prime.. b6p,rgb,msb,xY,prime.. text: ["5" repeated 57 times]
+b6p,bgr,lsb,xY,prime.. text: "kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkgbkkklknkklolllllllllllllllllllllllllllllllllllllllllllllllllllllllllmqllkmqfttttttttttttttttttttttttttttttttttttttttttttttttmtturtttttrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr"
+b6p,bgr,msb,xY,prime.. text: ["6" repeated 57 times]
+b7,r,lsb,xY,prime   .. b7,r,msb,xY,prime   .. b7,g,lsb,xY,prime   .. b7,g,msb,xY,prime   .. b7,b,lsb,xY,prime   .. b7,b,msb,xY,prime   .. b7,rgb,lsb,xY,prime .. b7,rgb,msb,xY,prime .. b7,bgr,lsb,xY,prime .. b7,bgr,msb,xY,prime .. b7p,r,lsb,xY,prime  .. text: "TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTQTTUTQWWWWWWWWWWWWWWWWWWWWWWWWWWWWWSVMTXXXXXXXXXXXXXXXXXXXXXXXYX\\XXY[[[[[[[[[[[[[[[[[[[[[[[][Z_[X\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\]````````````````````````"
+b7p,r,msb,xY,prime  .. text: ["*" repeated 34 times]
+b7p,g,lsb,xY,prime  .. file: RDI Acoustic Doppler Current Profiler (ADCP)
+b7p,g,msb,xY,prime  .. text: ["!" repeated 27 times]
+b7p,b,lsb,xY,prime  .. b7p,b,msb,xY,prime  .. text: "----------------------------------M-"
+b7p,rgb,lsb,xY,prime.. text: "UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUQNUUUPUVUUPOVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVWSVVUMSTXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXWXX]\\XXXXXZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ\\ZZZZ\\"
+b7p,rgb,msb,xY,prime.. text: ["j" repeated 57 times]
+b7p,bgr,lsb,xY,prime.. b7p,bgr,msb,xY,prime.. text: ["m" repeated 57 times]
+b8,r,lsb,xY,prime   .. b8,r,msb,xY,prime   .. file: VISX image file
+b8,g,lsb,xY,prime   .. b8,g,msb,xY,prime   .. text: ["C" repeated 53 times]
+b8,b,lsb,xY,prime   .. b8,b,msb,xY,prime   .. text: ["[" repeated 68 times]
+b8,rgb,lsb,xY,prime .. b8,rgb,msb,xY,prime .. b8,bgr,lsb,xY,prime .. b8,bgr,msb,xY,prime .. b1,r,lsb,Yx         .. b1,r,msb,Yx         .. b1,g,lsb,Yx         .. b1,g,msb,Yx         .. b1,b,lsb,Yx         .. b1,b,msb,Yx         .. b1,rgb,lsb,Yx       .. b1,rgb,msb,Yx       .. b1,bgr,lsb,Yx       .. b1,bgr,msb,Yx       .. b2,r,lsb,Yx         .. text: "UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU,`b"
+b2,r,msb,Yx         .. b2,g,lsb,Yx         .. b2,g,msb,Yx         .. text: "]UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU"
+b2,b,lsb,Yx         .. b2,b,msb,Yx         .. b2,rgb,lsb,Yx       .. b2,rgb,msb,Yx       .. b2,bgr,lsb,Yx       .. b2,bgr,msb,Yx       .. b3,r,lsb,Yx         .. b3,r,msb,Yx         .. b3,g,lsb,Yx         .. b3,g,msb,Yx         .. b3,b,lsb,Yx         .. b3,b,msb,Yx         .. b3,rgb,lsb,Yx       .. b3,rgb,msb,Yx       .. b3,bgr,lsb,Yx       .. b3,bgr,msb,Yx       .. b3p,r,lsb,Yx        .. text: "Q%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%"
+b3p,r,msb,Yx        .. b3p,g,lsb,Yx        .. text: "A%%%%%%%*JOl"
+b3p,g,msb,Yx        .. text: "fVRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR<P6"
+b3p,b,lsb,Yx        .. b3p,b,msb,Yx        .. b3p,rgb,lsb,Yx      .. text: "+++H++-lll"
+b3p,rgb,msb,Yx      .. text: "\"\"`                "
+b3p,bgr,lsb,Yx      .. text: "0000055[[[{{@@ee"
+b3p,bgr,msb,Yx      .. text: "``#                "
+b4,r,lsb,Yx         .. b4,r,msb,Yx         .. b4,g,lsb,Yx         .. b4,g,msb,Yx         .. text: ["U" repeated 197 times]
+b4,b,lsb,Yx         .. text: "\"3\"3C34DDEVVgwvwx"
+b4,b,msb,Yx         .. b4,rgb,lsb,Yx       .. b4,rgb,msb,Yx       .. b4,bgr,lsb,Yx       .. b4,bgr,msb,Yx       .. b5,r,lsb,Yx         .. b5,r,msb,Yx         .. b5,g,lsb,Yx         .. b5,g,msb,Yx         .. b5,b,lsb,Yx         .. b5,b,msb,Yx         .. b5,rgb,lsb,Yx       .. b5,rgb,msb,Yx       .. b5,bgr,lsb,Yx       .. b5,bgr,msb,Yx       .. b5p,r,lsb,Yx        .. text: "78O:P@@@@@@@@H@IJIK[ddeo"
+b5p,r,msb,Yx        .. b5p,g,lsb,Yx        .. text: "$%(8JRSdemmmvuY"
+b5p,g,msb,Yx        .. text: ["K" repeated 197 times]
+b5p,b,lsb,Yx        .. text: "-7A\\dw~px"
+b5p,b,msb,Yx        .. b5p,rgb,lsb,Yx      .. text: "788AH:8QQAAAAAAAAAAAAAAAAAIAAAJJJRJJK[[[dddddmm~~~~~"
+b5p,rgb,msb,Yx      .. text: ["R" repeated 138 times]
+b5p,bgr,lsb,Yx      .. text: "\"+-68@I\\ddewxxqp"
+b5p,bgr,msb,Yx      .. text: ["^" repeated 138 times]
+b6,r,lsb,Yx         .. b6,r,msb,Yx         .. b6,g,lsb,Yx         .. b6,g,msb,Yx         .. b6,b,lsb,Yx         .. b6,b,msb,Yx         .. file: OpenPGP Secret Key
+b6,rgb,lsb,Yx       .. b6,rgb,msb,Yx       .. b6,bgr,lsb,Yx       .. b6,bgr,msb,Yx       .. b6p,r,lsb,Yx        .. text: "(        $ %&%'/0017??@EHPVX`klpvz"
+b6p,r,msb,Yx        .. b6p,g,lsb,Yx        .. text: "&-8APQ\\abaeeeeeeeeeeejjjooppqvzz"
+b6p,g,msb,Yx        .. text: ["V" repeated 197 times]
+b6p,b,lsb,Yx        .. b6p,b,msb,Yx        .. b6p,rgb,lsb,Yx      .. text: "))!!!!!!!!!!!!!!!!!%!!!&&&*&&'///0000055>>>>>@@EEJPQQVZZa``hmmpspuzzz"
+b6p,rgb,msb,Yx      .. text: ["d" repeated 138 times]
+b6p,bgr,lsb,Yx      .. text: "kltrrww|"
+b6p,bgr,msb,Yx      .. text: ["}" repeated 138 times]
+b7,r,lsb,Yx         .. b7,r,msb,Yx         .. b7,g,lsb,Yx         .. b7,g,msb,Yx         .. b7,b,lsb,Yx         .. b7,b,msb,Yx         .. b7,rgb,lsb,Yx       .. b7,rgb,msb,Yx       .. b7,bgr,lsb,Yx       .. b7,bgr,msb,Yx       .. b7p,r,lsb,Yx        .. text: "UY\\admpv~"
+b7p,r,msb,Yx        .. text: "q)\t\t\t\t\t\t\t\tI\t"
+b7p,g,lsb,Yx        .. b7p,g,msb,Yx        .. text: ["-" repeated 197 times]
+b7p,b,lsb,Yx        .. b7p,b,msb,Yx        .. b7p,rgb,lsb,Yx      .. text: "UVXZ\\aabdimnquvx~"
+b7p,rgb,msb,Yx      .. text: ["I" repeated 138 times]
+b7p,bgr,lsb,Yx      .. b7p,bgr,msb,Yx      .. text: ["{" repeated 138 times]
+b8,r,lsb,Yx         .. b8,r,msb,Yx         .. b8,g,lsb,Yx         .. b8,g,msb,Yx         .. text: ["[" repeated 138 times]
+b8,b,lsb,Yx         .. b8,b,msb,Yx         .. b8,rgb,lsb,Yx       .. b8,rgb,msb,Yx       .. b8,bgr,lsb,Yx       .. b8,bgr,msb,Yx       .. b1,r,lsb,Yx,prime   .. b1,r,msb,Yx,prime   .. b1,g,lsb,Yx,prime   .. b1,g,msb,Yx,prime   .. b1,b,lsb,Yx,prime   .. b1,b,msb,Yx,prime   .. b1,rgb,lsb,Yx,prime .. b1,rgb,msb,Yx,prime .. b1,bgr,lsb,Yx,prime .. b1,bgr,msb,Yx,prime .. b2,r,lsb,Yx,prime   .. text: "%UUUUUUUUUUUUUUUUT`"
+b2,r,msb,Yx,prime   .. text: "@LUUUUUUUUUUUUUU"
+b2,g,lsb,Yx,prime   .. text: "UUUUUUUUUUUUUUV5TUEUUUUUUUUUUUUU"
+b2,g,msb,Yx,prime   .. text: "ZUUUUUUUUUUUUUUUU"
+b2,b,lsb,Yx,prime   .. b2,b,msb,Yx,prime   .. text: "5TUUUUUUUUUUUUUu"
+b2,rgb,lsb,Yx,prime .. b2,rgb,msb,Yx,prime .. text: ["U" repeated 14 times]
+b2,bgr,lsb,Yx,prime .. b2,bgr,msb,Yx,prime .. text: "TUUUUUUUUUUUUU"
+b3,r,lsb,Yx,prime   .. file: OpenPGP Secret Key
+b3,r,msb,Yx,prime   .. b3,g,lsb,Yx,prime   .. b3,g,msb,Yx,prime   .. b3,b,lsb,Yx,prime   .. b3,b,msb,Yx,prime   .. b3,rgb,lsb,Yx,prime .. b3,rgb,msb,Yx,prime .. b3,bgr,lsb,Yx,prime .. b3,bgr,msb,Yx,prime .. b3p,r,lsb,Yx,prime  .. file: OpenPGP Secret Key
+b3p,r,msb,Yx,prime  .. text: "N[[[[[[[[[[[[[[[[[[["
+b3p,g,lsb,Yx,prime  .. text: "JJJJJJJJJJJJJJJJJJJJJJJq%,"
+b3p,g,msb,Yx,prime  .. text: ["R" repeated 23 times]
+b3p,b,lsb,Yx,prime  .. b3p,b,msb,Yx,prime  .. text: "@d;X[[[[[[[[[[[[[[[[[[s"
+b3p,rgb,lsb,Yx,prime.. text: "+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++\r3"
+b3p,rgb,msb,Yx,prime.. text: ".+`````````````````````````````````````````````````````````"
+b3p,bgr,lsb,Yx,prime.. b3p,bgr,msb,Yx,prime.. text: "h#########################################################f"
+b4,r,lsb,Yx,prime   .. text: "Ffffffffffffffffffffffffffffff"
+b4,r,msb,Yx,prime   .. text: "bfffffffffffffffffffffffffffff"
+b4,g,lsb,Yx,prime   .. text: "vfffffffffffffffffffffffffffff"
+b4,g,msb,Yx,prime   .. text: ["U" repeated 34 times]
+b4,b,lsb,Yx,prime   .. text: ["f" repeated 29 times]
+b4,b,msb,Yx,prime   .. text: "qwwwwwwwwwwwwwwwwwwwwwwwwwwwwls"
+b4,rgb,lsb,Yx,prime .. b4,rgb,msb,Yx,prime .. b4,bgr,lsb,Yx,prime .. b4,bgr,msb,Yx,prime .. b5,r,lsb,Yx,prime   .. b5,r,msb,Yx,prime   .. file: OpenPGP Public Key
+b5,g,lsb,Yx,prime   .. b5,g,msb,Yx,prime   .. b5,b,lsb,Yx,prime   .. b5,b,msb,Yx,prime   .. b5,rgb,lsb,Yx,prime .. b5,rgb,msb,Yx,prime .. b5,bgr,lsb,Yx,prime .. b5,bgr,msb,Yx,prime .. b5p,r,lsb,Yx,prime  .. text: "&IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIH"
+b5p,r,msb,Yx,prime  .. text: "emmmmmmmmmmmmmmmmmmmmmmmmmmmmm"
+b5p,g,lsb,Yx,prime  .. b5p,g,msb,Yx,prime  .. text: ["K" repeated 34 times]
+b5p,b,lsb,Yx,prime  .. text: ["v" repeated 28 times]
+b5p,b,msb,Yx,prime  .. text: "cnnnnnnnnnnnnnnnnnnnnnnnnnnnnxf"
+b5p,rgb,lsb,Yx,prime.. text: "8QAAAAAJ[[m~~"
+b5p,rgb,msb,Yx,prime.. text: ["R" repeated 69 times]
+b5p,bgr,lsb,Yx,prime.. text: "zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz+\\yqqqy"
+b5p,bgr,msb,Yx,prime.. text: ["^" repeated 69 times]
+b6,r,lsb,Yx,prime   .. b6,r,msb,Yx,prime   .. b6,g,lsb,Yx,prime   .. b6,g,msb,Yx,prime   .. file: TTComp archive data, binary, 1K dictionary
+b6,b,lsb,Yx,prime   .. b6,b,msb,Yx,prime   .. b6,rgb,lsb,Yx,prime .. b6,rgb,msb,Yx,prime .. b6,bgr,lsb,Yx,prime .. b6,bgr,msb,Yx,prime .. b6p,r,lsb,Yx,prime  .. text: "  !/7<[y"
+b6p,r,msb,Yx,prime  .. text: "K[[[[[[[[[[[[[[[[[[[[[[[[[[[[[\r"
+b6p,g,lsb,Yx,prime  .. text: ")Daeefovx"
+b6p,g,msb,Yx,prime  .. text: ["V" repeated 34 times]
+b6p,b,lsb,Yx,prime  .. b6p,b,msb,Yx,prime  .. text: "S;G]]]]]]]]]]]]]]]]]]]]]]]]]]]]qM"
+b6p,rgb,lsb,Yx,prime.. text: ")!!!!!&//5>>PZmz"
+b6p,rgb,msb,Yx,prime.. text: ["d" repeated 69 times]
+b6p,bgr,lsb,Yx,prime.. b6p,bgr,msb,Yx,prime.. text: ["}" repeated 69 times]
+b7,r,lsb,Yx,prime   .. b7,r,msb,Yx,prime   .. b7,g,lsb,Yx,prime   .. b7,g,msb,Yx,prime   .. b7,b,lsb,Yx,prime   .. b7,b,msb,Yx,prime   .. b7,rgb,lsb,Yx,prime .. file: mumps avl global with 67 byte name
+b7,rgb,msb,Yx,prime .. file: OpenPGP Public Key
+b7,bgr,lsb,Yx,prime .. b7,bgr,msb,Yx,prime .. b7p,r,lsb,Yx,prime  .. b7p,r,msb,Yx,prime  .. file: OpenPGP Public Key
+b7p,g,lsb,Yx,prime  .. b7p,g,msb,Yx,prime  .. text: ["-" repeated 34 times]
+b7p,b,lsb,Yx,prime  .. b7p,b,msb,Yx,prime  .. text: ";;;;;;;;;;;;;;;;;;;;;;;;;;;;c"
+b7p,rgb,lsb,Yx,prime.. b7p,rgb,msb,Yx,prime.. text: ["I" repeated 69 times]
+b7p,bgr,lsb,Yx,prime.. b7p,bgr,msb,Yx,prime.. text: ["{" repeated 69 times]
+b8,r,lsb,Yx,prime   .. b8,r,msb,Yx,prime   .. b8,g,lsb,Yx,prime   .. b8,g,msb,Yx,prime   .. text: ["[" repeated 69 times]
+b8,b,lsb,Yx,prime   .. b8,b,msb,Yx,prime   .. text: ["w" repeated 57 times]
