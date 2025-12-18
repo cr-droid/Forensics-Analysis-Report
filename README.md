@@ -39,27 +39,171 @@ The goal of this report is to present findings in a clear, structured, and repro
 
 ## 🧪 Exhibit
 
-### Exhibit A: Artifact Identification
-![Exhibit A – File Artifact Screenshot](images/screenshot.png)
+### Exhibit A: Picture of USB device
+![Exhibit A – USB Picture](readme_images/pic_of_usb_device.png)
 
 **Description:**  
-This image shows the identification of suspicious artifacts discovered during the forensic examination. The highlighted files were flagged due to anomalous timestamps and unexpected file types, warranting further investigation.
+This exhibit shows the physical examination of the USB storage device.
 
 ---
 
-### Exhibit B: Metadata Analysis
-![Exhibit B – Metadata Analysis Screenshot](images/screenshot.png)
+### Exhibit B: USB Hashes
+![Exhibit B – USB hashes](readme_images/usb_hash.png)
 
 **Description:**  
-This exhibit demonstrates metadata extracted from the suspicious files. The timestamps and embedded data were analyzed to establish a potential timeline of events and determine file origin and modification behavior.
+This exhibit shows the hashes (MD5 and SHA1) of the USB device calculated by Exterro FTK Imager for file integrity.
 
 ---
 
-### Exhibit C: Hash Verification
-![Exhibit C – Hash Verification Screenshot](images/screenshot.png)
+### Exhibit C: USB Device Raw Image File Verification
+![Exhibit C – Hash Verification Screenshot](readme_images/usb_raw_image_hash.png)
 
 **Description:**  
-This image illustrates the hashing process used to verify file integrity. Hash values were calculated and compared against known databases to determine whether the files matched known malicious signatures.
+This exhibit shows the hashes (MD5 and SHA1) of the raw image file (.dd) created by Exterro FTK Imager from the USB storage device.
+
+---
+
+### Exhibit D: Autopsy Analysis Report
+![Exhibit D – Autopsy_Analysis_Results.png](readme_images/Autopsy_Analysis_Results.png)
+
+**Description:**  
+This exhibit shows the hashes (MD5 and SHA1) of the raw image file (.dd) created by Exterro FTK Imager from the USB storage device.
+
+---
+
+### Exhibit E: User Content Suspected by Autopsy
+![Exhibit E – user_content_suspected.png](readme_images/user_content_suspected.png)
+
+**Description:**  
+This exhibit shows the hashes (MD5 and SHA1) of the raw image file (.dd) created by Exterro FTK Imager from the USB storage device.
+
+---
+
+### Exhibit F: Email Found by Autopsy
+![Exhibit F – email_hit.png](readme_images/email_hit.png)
+
+**Description:**  
+This exhibit shows the hashes (MD5 and SHA1) of the raw image file (.dd) created by Exterro FTK Imager from the USB storage device.
+
+---
+
+### Exhibit G: Suspicious Item Flagged by Autopsy
+![Exhibit G – suspicious_item.png](readme_images/suspicious_item.png)
+
+**Description:**  
+This exhibit shows the hashes (MD5 and SHA1) of the raw image file (.dd) created by Exterro FTK Imager from the USB storage device.
+
+---
+
+### Exhibit H: File Carving Deleted or Hidden Files via Photorec
+![Exhibit H – photorec.png](readme_images/photorec.png)
+
+**Description:**  
+This exhibit shows the hashes (MD5 and SHA1) of the raw image file (.dd) created by Exterro FTK Imager from the USB storage device.
+
+---
+
+### Exhibit I: Using PDF-ID to Find Suspicious Embedded Content in PDF
+![Exhibit I – pdfid.png](readme_images/pdfid.png)
+
+**Description:**  
+This exhibit shows the hashes (MD5 and SHA1) of the raw image file (.dd) created by Exterro FTK Imager from the USB storage device.
+
+---
+
+### Exhibit J: Locating AcroForm Item Embedded in PDF via PDF-Parser
+![Exhibit J – pdfparser-acroform.png](readme_images/pdfparser-acroform.png)
+
+**Description:**  
+This exhibit shows the hashes (MD5 and SHA1) of the raw image file (.dd) created by Exterro FTK Imager from the USB storage device.
+
+---
+
+### Exhibit K: Inspecting AcroForm Item Embedded in PDF via PDF-Parser
+![Exhibit K – pdfparser-inspect.png](readme_images/pdfparser-inspect.png)
+
+**Description:**  
+This exhibit shows the hashes (MD5 and SHA1) of the raw image file (.dd) created by Exterro FTK Imager from the USB storage device.
+
+---
+
+### Exhibit L: Locating Embedded JavaScript in PDF via PDF-Parser
+![Exhibit L – pdfparser-js.png](readme_images/pdfparser-js.png)
+
+**Description:**  
+This exhibit shows the hashes (MD5 and SHA1) of the raw image file (.dd) created by Exterro FTK Imager from the USB storage device.
+
+---
+
+### Exhibit M: Extracting Embedded URIs via PDF-Parser
+![Exhibit M – pdfparser-uris.png](readme_images/pdfparser-uris.png)
+
+**Description:**  
+This exhibit shows the hashes (MD5 and SHA1) of the raw image file (.dd) created by Exterro FTK Imager from the USB storage device.
+
+---
+
+### Exhibit N: StegSeek Script Used
+![Exhibit N – stegseek_script.png](readme_images/stegseek_script.png)
+
+**Description:**  
+This exhibit shows the hashes (MD5 and SHA1) of the raw image file (.dd) created by Exterro FTK Imager from the USB storage device.
+
+---
+
+### Exhibit O: Cracking Steganography Password and Extracting Embedded Data
+![Exhibit O – stegseek_dog.png](readme_images/stegseek_dog.png)
+
+**Description:**  
+This exhibit shows the hashes (MD5 and SHA1) of the raw image file (.dd) created by Exterro FTK Imager from the USB storage device.
+
+---
+
+### Exhibit P: Looking at Extracted Data Content
+![Exhibit P – extracted_dog_data.png](readme_images/extracted_dog_data.png)
+
+**Description:**  
+This exhibit shows the hashes (MD5 and SHA1) of the raw image file (.dd) created by Exterro FTK Imager from the USB storage device.
+
+---
+
+### Exhibit Q: zSteg Script Used
+![Exhibit Q – zsteg_script.png](readme_images/zsteg_script.png)
+
+**Description:**  
+This exhibit shows the hashes (MD5 and SHA1) of the raw image file (.dd) created by Exterro FTK Imager from the USB storage device.
+
+---
+
+### Exhibit R: USB Device Raw Image File Verification
+![Exhibit R – Hash Verification Screenshot](readme_images/usb_raw_image_hash.png)
+
+**Description:**  
+This exhibit shows the hashes (MD5 and SHA1) of the raw image file (.dd) created by Exterro FTK Imager from the USB storage device.
+
+---
+
+### Exhibit S: USB Device Raw Image File Verification
+![Exhibit S – Hash Verification Screenshot](readme_images/usb_raw_image_hash.png)
+
+**Description:**  
+This exhibit shows the hashes (MD5 and SHA1) of the raw image file (.dd) created by Exterro FTK Imager from the USB storage device.
+
+---
+
+### Exhibit T: USB Device Raw Image File Verification
+![Exhibit T – Hash Verification Screenshot](readme_images/usb_raw_image_hash.png)
+
+**Description:**  
+This exhibit shows the hashes (MD5 and SHA1) of the raw image file (.dd) created by Exterro FTK Imager from the USB storage device.
+
+---
+
+### Exhibit U: USB Device Raw Image File Verification
+![Exhibit U – Hash Verification Screenshot](readme_images/usb_raw_image_hash.png)
+
+**Description:**  
+This exhibit shows the hashes (MD5 and SHA1) of the raw image file (.dd) created by Exterro FTK Imager from the USB storage device.
 
 ---
 
