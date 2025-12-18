@@ -213,6 +213,12 @@ This exhibit shows a PDP-11 Pure Executable found in a PNG by zSteg. A PDP-11 Pu
 
 ---
 
+## 💭 Final Thoughts
+
+This investigation demonstrates the importance of carefully examining digital media for hidden or obfuscated content. Techniques such as steganography, embedded executables, and encrypted data highlight the lengths to which malicious actors may go to conceal activity. Proper use of forensic tools, systematic analysis, and attention to anomalies are essential for uncovering hidden artifacts and producing reliable, reproducible findings. This report emphasizes the value of combining automated tools with expert interpretation to ensure a thorough and accurate forensic examination.
+
+For a more in depth report about this project, visit the [Full Forensic Report](https://drive.google.com/file/d/1cESshgHQEwvbGMdsTj8EFCmHq7myUULQ/view?usp=sharing).
+
 ## 👤 Author(s)
 - **Christian Ruiz**  
   Digital Forensics Student  
