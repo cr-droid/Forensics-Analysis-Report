@@ -67,7 +67,7 @@ This exhibit shows the hashes (MD5 and SHA1) of the raw image file (.dd) created
 ![Exhibit D – Autopsy_Analysis_Results.png](readme_images/Autopsy_Analysis_Results.png)
 
 **Description:**  
-This exhibit shows the hashes (MD5 and SHA1) of the raw image file (.dd) created by Exterro FTK Imager from the USB storage device.
+This exhibit shows an Analysis Report created by Autopsy. It shows what artifacts should be looked into.
 
 ---
 
@@ -75,7 +75,7 @@ This exhibit shows the hashes (MD5 and SHA1) of the raw image file (.dd) created
 ![Exhibit E – user_content_suspected.png](readme_images/user_content_suspected.png)
 
 **Description:**  
-This exhibit shows the hashes (MD5 and SHA1) of the raw image file (.dd) created by Exterro FTK Imager from the USB storage device.
+This exhibit shows User Content Suspected by Autopsy. It flags artifacts that were created by a user and should be investigated further.
 
 ---
 
@@ -83,7 +83,7 @@ This exhibit shows the hashes (MD5 and SHA1) of the raw image file (.dd) created
 ![Exhibit F – email_hit.png](readme_images/email_hit.png)
 
 **Description:**  
-This exhibit shows the hashes (MD5 and SHA1) of the raw image file (.dd) created by Exterro FTK Imager from the USB storage device.
+This exhibit shows emails found by Autopsy. Only one email was found.
 
 ---
 
@@ -91,7 +91,7 @@ This exhibit shows the hashes (MD5 and SHA1) of the raw image file (.dd) created
 ![Exhibit G – suspicious_item.png](readme_images/suspicious_item.png)
 
 **Description:**  
-This exhibit shows the hashes (MD5 and SHA1) of the raw image file (.dd) created by Exterro FTK Imager from the USB storage device.
+This exhibit shows Suspicious Items flagged by Autopsy. It shows items that may contain information worth investigating.
 
 ---
 
@@ -99,7 +99,7 @@ This exhibit shows the hashes (MD5 and SHA1) of the raw image file (.dd) created
 ![Exhibit H – photorec.png](readme_images/photorec.png)
 
 **Description:**  
-This exhibit shows the hashes (MD5 and SHA1) of the raw image file (.dd) created by Exterro FTK Imager from the USB storage device.
+This exhibit shows qphotorec recovering deleted or hidden files from the USB device image.
 
 ---
 
@@ -107,23 +107,23 @@ This exhibit shows the hashes (MD5 and SHA1) of the raw image file (.dd) created
 ![Exhibit I – pdfid.png](readme_images/pdfid.png)
 
 **Description:**  
-This exhibit shows the hashes (MD5 and SHA1) of the raw image file (.dd) created by Exterro FTK Imager from the USB storage device.
+This exhibit shows how to run PDF-ID to list the embedded elements in a PDF. PDFs may contain suspicious elements, such as embedded JavaScript or automatic actions, which can carry out malicious activity.
 
 ---
 
-### Exhibit J: Locating AcroForm Item Embedded in PDF via PDF-Parser
+### Exhibit J: Locating AcroForm Element Embedded in PDF via PDF-Parser
 ![Exhibit J – pdfparser-acroform.png](readme_images/pdfparser-acroform.png)
 
 **Description:**  
-This exhibit shows the hashes (MD5 and SHA1) of the raw image file (.dd) created by Exterro FTK Imager from the USB storage device.
+This exhibit shows how to locate AcroForm elements embedded in PDFs with PDF-Parser. AcroForm elements are worth investigating because they are a PDF form technology that allows interactive fields such as text inputs, buttons, and scripts within a document, which can be used to carry out malicious activity.
 
 ---
 
-### Exhibit K: Inspecting AcroForm Item Embedded in PDF via PDF-Parser
+### Exhibit K: Inspecting AcroForm Element Embedded in PDF via PDF-Parser
 ![Exhibit K – pdfparser-inspect.png](readme_images/pdfparser-inspect.png)
 
 **Description:**  
-This exhibit shows the hashes (MD5 and SHA1) of the raw image file (.dd) created by Exterro FTK Imager from the USB storage device.
+This exhibit shows how to inspect AcroForm elements with PDF-Parser.
 
 ---
 
@@ -131,7 +131,7 @@ This exhibit shows the hashes (MD5 and SHA1) of the raw image file (.dd) created
 ![Exhibit L – pdfparser-js.png](readme_images/pdfparser-js.png)
 
 **Description:**  
-This exhibit shows the hashes (MD5 and SHA1) of the raw image file (.dd) created by Exterro FTK Imager from the USB storage device.
+This exhibit shows how to located embedded JavaScript in PDFs using PDF-Parser.
 
 ---
 
@@ -139,7 +139,7 @@ This exhibit shows the hashes (MD5 and SHA1) of the raw image file (.dd) created
 ![Exhibit M – pdfparser-uris.png](readme_images/pdfparser-uris.png)
 
 **Description:**  
-This exhibit shows the hashes (MD5 and SHA1) of the raw image file (.dd) created by Exterro FTK Imager from the USB storage device.
+This exhibit shows how to extract embedded URIs using PDF-Parser. URIs are worth investigating because they can link or redirect a PDF viewer to an external website, which may host malicious content or be used for phishing or exploitation.
 
 ---
 
@@ -147,7 +147,7 @@ This exhibit shows the hashes (MD5 and SHA1) of the raw image file (.dd) created
 ![Exhibit N – stegseek_script.png](readme_images/stegseek_script.png)
 
 **Description:**  
-This exhibit shows the hashes (MD5 and SHA1) of the raw image file (.dd) created by Exterro FTK Imager from the USB storage device.
+This exhibit shows a script developed to perform password cracking on steganography-protected files and to extract embedded data when the cracking process was successful. StegSeek was utilized exclusively for JPEG files, as the tool does not support steganographic analysis of PNG files.
 
 ---
 
@@ -155,7 +155,7 @@ This exhibit shows the hashes (MD5 and SHA1) of the raw image file (.dd) created
 ![Exhibit O – stegseek_dog.png](readme_images/stegseek_dog.png)
 
 **Description:**  
-This exhibit shows the hashes (MD5 and SHA1) of the raw image file (.dd) created by Exterro FTK Imager from the USB storage device.
+This exhibit shows the StegSeek script being successful when executed on the dog.jpg file. The password and embedded filename are displayed, as well as the output file for the extracted data.
 
 ---
 
@@ -163,7 +163,7 @@ This exhibit shows the hashes (MD5 and SHA1) of the raw image file (.dd) created
 ![Exhibit P – extracted_dog_data.png](readme_images/extracted_dog_data.png)
 
 **Description:**  
-This exhibit shows the hashes (MD5 and SHA1) of the raw image file (.dd) created by Exterro FTK Imager from the USB storage device.
+This exhibit shows the content of the embedded file (secret.txt).
 
 ---
 
@@ -171,7 +171,7 @@ This exhibit shows the hashes (MD5 and SHA1) of the raw image file (.dd) created
 ![Exhibit Q – zsteg_script.png](readme_images/zsteg_script.png)
 
 **Description:**  
-This exhibit shows the hashes (MD5 and SHA1) of the raw image file (.dd) created by Exterro FTK Imager from the USB storage device.
+This exhibit shows the zSteg script used to analyze PNG files for embedded data and extract potential hidden file types. The accompanying results.txt files document the various embedded data formats identified within each PNG image. zSteg was utilized exclusively for PNG analysis, as the tool does not support steganographic analysis of JPEG files.
 
 ---
 
@@ -179,7 +179,13 @@ This exhibit shows the hashes (MD5 and SHA1) of the raw image file (.dd) created
 ![Exhibit R – grepping_zsteg_results.png](readme_images/grepping_zsteg_results.png)
 
 **Description:**  
-This exhibit shows the hashes (MD5 and SHA1) of the raw image file (.dd) created by Exterro FTK Imager from the USB storage device.
+This exhibit the use of a grep command to filter and isolate relevant results generated by the zSteg analysis script. The command was used to identify indicators of potentially malicious embedded content by searching for keywords commonly associated with hidden or compressed data.
+
+```bash
+grep -Ei "text|file|data|compressed|zlib|payload" <filename>_results.txt
+```
+
+This filtering approach allowed the investigation to focus specifically on entries suggesting embedded payloads or non-image data within the analyzed PNG files, reducing noise and improving analysis efficiency.
 
 ---
 
@@ -187,7 +193,7 @@ This exhibit shows the hashes (MD5 and SHA1) of the raw image file (.dd) created
 ![Exhibit S – TE.png](readme_images/TE.png)
 
 **Description:**  
-This exhibit shows the hashes (MD5 and SHA1) of the raw image file (.dd) created by Exterro FTK Imager from the USB storage device.
+This exhibit shows a Terse Executable found in a PNG by zSteg. Terse executables embedded within PNG files are worth investigating because they indicate potential file masquerading or steganographic concealment, a common technique used to hide malicious payloads. PNG files are expected to contain only image data; the presence of executable content suggests intentional obfuscation designed to evade detection. Such embedded executables may be extracted and executed after delivery, posing a security risk, and can provide critical evidence of malicious intent or unauthorized data concealment during a forensic investigation.
 
 ---
 
@@ -195,7 +201,7 @@ This exhibit shows the hashes (MD5 and SHA1) of the raw image file (.dd) created
 ![Exhibit T – PGP-encrypted-data.png](readme_images/PGP-encrypted-data.png)
 
 **Description:**  
-This exhibit shows the hashes (MD5 and SHA1) of the raw image file (.dd) created by Exterro FTK Imager from the USB storage device.
+This exhibit shows a PGP-Encrypted Data file found in a PNG by zSteg. PGP-encrypted data embedded within PNG files is worth investigating because it indicates intentional concealment of protected information within a file type not intended to store encrypted payloads. The use of strong encryption suggests an effort to prevent content inspection, which may be associated with data exfiltration, covert communications, or the hiding of illicit material. In a forensic investigation, such findings can point to deliberate obfuscation and warrant further analysis to determine the data’s origin, purpose, and potential misuse.
 
 ---
 
@@ -203,7 +209,7 @@ This exhibit shows the hashes (MD5 and SHA1) of the raw image file (.dd) created
 ![Exhibit U – pdp-11.png](readme_images/pdp-11.png)
 
 **Description:**  
-This exhibit shows the hashes (MD5 and SHA1) of the raw image file (.dd) created by Exterro FTK Imager from the USB storage device.
+This exhibit shows a PDP-11 Pure Executable found in a PNG by zSteg. A PDP-11 Pure Executable embedded within a PNG file is worth investigating because it represents executable code concealed inside a non-executable image format, which strongly suggests intentional obfuscation. PNG files are not designed to contain runnable binaries, and the presence of a legacy executable format indicates file masquerading or steganographic techniques used to evade detection. In a forensic investigation, such an artifact may point to hidden payload delivery, experimentation with unconventional malware techniques, or attempts to conceal executable content, making it a significant indicator of suspicious or malicious activity.
 
 ---
 
